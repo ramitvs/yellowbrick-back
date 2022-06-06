@@ -1,0 +1,30 @@
+<svg id="fa90c030-cb2c-4dc6-9944-e13a1fb6ef90" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .b020dbee-e421-40d9-98aa-7446426de6ee, .f3e51704-6f08-4c21-8d3d-afe891fe1283 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .b020dbee-e421-40d9-98aa-7446426de6ee {
+        stroke: #000;
+      }
+
+      .f3e51704-6f08-4c21-8d3d-afe891fe1283 {
+        stroke: #00c3cd;
+      }
+    </style>
+  </defs>
+  <path class="b020dbee-e421-40d9-98aa-7446426de6ee" d="M229.28,238.28l.9,21.56,21.55-.9"/>
+  <path class="b020dbee-e421-40d9-98aa-7446426de6ee" d="M207.51,277.08a113.11,113.11,0,1,1,22.72-17.63"/>
+  <polyline class="f3e51704-6f08-4c21-8d3d-afe891fe1283" points="192.2 112.82 151.04 181.97 106.53 202.94"/>
+  <line class="b020dbee-e421-40d9-98aa-7446426de6ee" x1="133.83" y1="40.02" x2="133.83" y2="67.15"/>
+  <line class="b020dbee-e421-40d9-98aa-7446426de6ee" x1="167.29" y1="40.02" x2="167.29" y2="67.15"/>
+  <line class="b020dbee-e421-40d9-98aa-7446426de6ee" x1="248.38" y1="94.72" x2="237.64" y2="83.98"/>
+  <line class="b020dbee-e421-40d9-98aa-7446426de6ee" x1="234.15" y1="98.18" x2="243.01" y2="89.35"/>
+  <line class="b020dbee-e421-40d9-98aa-7446426de6ee" x1="55.07" y1="94.72" x2="65.82" y2="83.98"/>
+  <line class="b020dbee-e421-40d9-98aa-7446426de6ee" x1="69.27" y1="98.18" x2="60.44" y2="89.35"/>
+  <rect class="b020dbee-e421-40d9-98aa-7446426de6ee" x="122.03" y="8.74" width="57.99" height="29.49"/>
+</svg>

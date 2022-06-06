@@ -1,0 +1,52 @@
+<svg id="a6c8c739-f1b5-4740-bc82-ded86e7822fa" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .a4a10ff7-2839-43fa-8a45-b76ae97e7e9d, .ad6ead04-50a9-46c6-a68e-6820eee4047e, .b21c4064-9339-40f1-b209-d47037b51a1e {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .a4a10ff7-2839-43fa-8a45-b76ae97e7e9d, .ad6ead04-50a9-46c6-a68e-6820eee4047e {
+        stroke: #000;
+      }
+
+      .b21c4064-9339-40f1-b209-d47037b51a1e {
+        stroke: #00c3cd;
+      }
+
+      .a4a10ff7-2839-43fa-8a45-b76ae97e7e9d {
+        stroke-dasharray: 9.81 14.72;
+      }
+    </style>
+  </defs>
+  <g>
+    <polyline class="ad6ead04-50a9-46c6-a68e-6820eee4047e" points="137.85 14.47 172.62 49.23 137.85 84"/>
+    <polyline class="ad6ead04-50a9-46c6-a68e-6820eee4047e" points="42.71 84 7.95 49.23 42.71 14.47"/>
+    <circle class="b21c4064-9339-40f1-b209-d47037b51a1e" cx="53.23" cy="49.23" r="10.52"/>
+    <circle class="b21c4064-9339-40f1-b209-d47037b51a1e" cx="90.28" cy="49.23" r="10.52"/>
+    <circle class="b21c4064-9339-40f1-b209-d47037b51a1e" cx="127.34" cy="49.23" r="10.52"/>
+  </g>
+  <g>
+    <polyline class="ad6ead04-50a9-46c6-a68e-6820eee4047e" points="257.85 211.91 292.62 246.67 257.85 281.44"/>
+    <polyline class="ad6ead04-50a9-46c6-a68e-6820eee4047e" points="162.71 281.44 127.95 246.67 162.71 211.91"/>
+    <circle class="ad6ead04-50a9-46c6-a68e-6820eee4047e" cx="173.23" cy="246.67" r="10.52"/>
+    <circle class="ad6ead04-50a9-46c6-a68e-6820eee4047e" cx="210.28" cy="246.67" r="10.52"/>
+    <circle class="ad6ead04-50a9-46c6-a68e-6820eee4047e" cx="247.34" cy="246.67" r="10.52"/>
+  </g>
+  <g>
+    <path class="b21c4064-9339-40f1-b209-d47037b51a1e" d="M169.17,134.29h7.2a13.45,13.45,0,0,1,13.4,13.41h0a13.44,13.44,0,0,1-13.4,13.4h-21A13.44,13.44,0,0,1,142,147.7h0"/>
+    <path class="b21c4064-9339-40f1-b209-d47037b51a1e" d="M133.49,161.1h-7.21a13.44,13.44,0,0,1-13.4-13.4h0a13.45,13.45,0,0,1,13.4-13.41h20.95a13.45,13.45,0,0,1,13.4,13.41h0"/>
+  </g>
+  <g>
+    <line class="ad6ead04-50a9-46c6-a68e-6820eee4047e" x1="104.06" y1="80.43" x2="106.89" y2="83.25"/>
+    <line class="a4a10ff7-2839-43fa-8a45-b76ae97e7e9d" x1="117.29" y1="93.66" x2="129.44" y2="105.8"/>
+    <line class="ad6ead04-50a9-46c6-a68e-6820eee4047e" x1="134.64" y1="111.01" x2="137.47" y2="113.84"/>
+  </g>
+  <g>
+    <line class="ad6ead04-50a9-46c6-a68e-6820eee4047e" x1="162.43" y1="176.22" x2="165.26" y2="179.05"/>
+    <line class="a4a10ff7-2839-43fa-8a45-b76ae97e7e9d" x1="175.67" y1="189.46" x2="187.81" y2="201.6"/>
+    <line class="ad6ead04-50a9-46c6-a68e-6820eee4047e" x1="193.02" y1="206.81" x2="195.84" y2="209.63"/>
+  </g>
+</svg>

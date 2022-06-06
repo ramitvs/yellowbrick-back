@@ -1,0 +1,196 @@
+/* purgecss start ignore */
+
+a {
+  cursor: pointer;
+}
+
+a, button {
+  &:focus {
+    @apply outline-none;
+  }
+}
+
+.button {
+  @apply border border-gray-700 rounded-sm no-underline text-gray-600 rfs-text-base w-auto text-center inline-flex leading-tight py-3 px-8 self-start;
+  transition: all ease .2s;
+
+  &:hover {
+    @apply border-yellow1 text-gray-700 bg-yellow3;
+  }
+
+  &.button-center {
+    @apply self-center;
+  }
+
+  &.button-sm {
+    @apply text-sm px-5 py-1 mx-1;
+  }
+
+  &.button-lg {
+    @apply text-2xl px-12 py-4 mx-1;
+  }
+
+  &.light {
+    @apply border-white bg-white text-black;
+
+    &:hover {
+      @apply border-gray-700 text-yellow1 bg-gray-700;
+    }
+  }
+
+  &.lighter {
+    @apply border-gray-100 bg-gray-100 text-gray-700;
+
+    &:hover {
+      @apply border-teal text-white bg-teal;
+    }
+  }
+
+  &.event {
+    @apply border-yellow1 bg-yellow1 text-black px-10 py-3 rfs-text-2xl;
+
+    &:hover {
+      @apply border-black text-white bg-black;
+    }
+  }
+
+  &.dark {
+    @apply border-gray-700 bg-gray-700 text-white;
+
+    &:hover {
+      @apply border-gray-500 text-gray-700 bg-white;
+    }
+  }
+
+  &.yellow {
+    @apply border-yellow1 bg-yellow1 text-gray-700 font-semibold;
+    transition: all ease .2s;
+
+    &:hover {
+      @apply border-yellow3 bg-yellow3;
+    }
+  }
+
+  &.teal {
+    @apply border-teal bg-teal text-white font-semibold;
+    transition: all ease .2s;
+
+    &:hover {
+      @apply border-blue bg-blue;
+    }
+  }
+
+  &.yellow-border {
+    @apply border-yellow1 text-yellow1;
+    transition: all ease .2s;
+
+    &:hover {
+        @apply border-yellow3 bg-yellow3;
+    }
+  }
+
+  &.yellow-bordered {
+    @apply border-yellow1 text-yellow1;
+    transition: all ease .2s;
+
+    &:hover {
+        @apply border-yellow3 bg-yellow3 text-black;
+    }
+  }
+}
+
+.secondary {
+  @apply relative block;
+  &:after {
+    content: '';
+    @apply absolute z-0;
+    top: 50%;
+    right: 1.25rem;
+    transform: translateY(-50%);
+    height: 15px;
+    width: 10px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 19.1 30.6'%3E%3Cg fill='none' stroke='%231f292e' stroke-width='3' stroke-linecap='round'%3E%3Cpath d='M9.6 1.5V27'/%3E%3Cpath stroke-linejoin='round' d='M1.5 20.6l8.1 8.5 8-8.5'/%3E%3C/g%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    transition: transform .2s ease;
+  }
+  &:hover {
+    &:after {
+
+      transform: translateY(-25%);
+    }
+  }
+  & .underline-button {
+    @apply text-xl relative block w-full font-semibold;
+    &:before {
+      @apply absolute bg-yellow1 h-1 w-full;
+      content: '';
+      left: 0;
+      right: 0;
+      bottom: -5px;
+    }
+    &:after {
+      @apply absolute h-1 bg-yellow3;
+      content: '';
+      left: 0;
+      right: 100%;
+      bottom: -5px;
+      transition: all .2s ease-out;
+    }
+    &:hover {
+      &:after {
+        right: 0;
+      }
+    }
+  }
+}
+
+.active.pagerLink {
+  @apply text-gray-700;
+  &:after {
+    content: '';
+    @apply absolute h-1 bg-yellow1 left-0 right-0;
+  }
+}
+.pagerLink {
+  @apply text-gray-400 w-10 h-10 mx-1 rfs-text-lg text-center relative;
+  line-height: 2.5rem;
+  transition: all ease .2s;
+  &:after {
+    content: '';
+    @apply absolute h-1 bg-transparent left-0 right-0;
+    transition: all ease .2s;
+  }
+  &:hover {
+    @apply bg-gray-light text-gray-700;
+    &:after {
+      @apply bg-yellow1;
+    }
+  }
+}
+
+.arrow-btn {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 37 23'%3E%3Cpath d='M36.4 10L26.2.5c-.8-.8-2.1-.7-2.9.1-.8.8-.7 2.1.1 2.8l6.5 6H2c-1.1 0-2 .9-2 2s.9 2 2 2h27.9l-6.5 6c-.8.8-.8 2-.1 2.8.4.4.9.6 1.5.6.5 0 1-.2 1.4-.5l10.1-9.5c.4-.4.6-.9.6-1.5.1-.3-.1-.9-.5-1.3z' fill='%231f292e'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  height: 23px;
+  width: 37px;
+  @apply self-end block mt-auto;
+  transform: translateX(0);
+  transition: all .2s ease;
+  &:hover {
+    transform: translateX(10px);
+    cursor: pointer;
+  }
+  &.large {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 30'%3E%3Cpath d='M47.2 13.2L34 .7c-1-1-2.6-.9-3.6.1s-.9 2.6.1 3.6l8.6 8.1H2.5C1.1 12.5 0 13.6 0 15s1.1 2.5 2.5 2.5h36.6l-8.6 8.1c-1 1-1.1 2.6-.1 3.6.5.5 1.2.8 1.8.8.6 0 1.3-.2 1.7-.7l13.2-12.5c.5-.5.8-1.1.8-1.8.1-.7-.2-1.4-.7-1.8z' fill='%231f292e'/%3E%3C/svg%3E");
+    width: 48px;
+    height: 30px;
+  }
+  &.tiny {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 30'%3E%3Cpath d='M47.2 13.2L34 .7c-1-1-2.6-.9-3.6.1s-.9 2.6.1 3.6l8.6 8.1H2.5C1.1 12.5 0 13.6 0 15s1.1 2.5 2.5 2.5h36.6l-8.6 8.1c-1 1-1.1 2.6-.1 3.6.5.5 1.2.8 1.8.8.6 0 1.3-.2 1.7-.7l13.2-12.5c.5-.5.8-1.1.8-1.8.1-.7-.2-1.4-.7-1.8z' fill='%231f292e'/%3E%3C/svg%3E");
+    width: 16px;
+    height: 10px;
+    @apply my-auto;
+  }
+}
+
+/* purgecss end ignore */

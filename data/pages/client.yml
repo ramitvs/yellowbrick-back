@@ -1,0 +1,25 @@
+logo:
+  - name: Alliancedata
+    position: "1"
+    photo: /uploads/clients/alliance.svg
+  - name: Catalina
+    position: "2"
+    photo: /uploads/clients/catalina.svg
+  - name: BMW
+    position: "3"
+    photo: /uploads/clients/bmw.svg
+  - name: LexisNexis
+    position: "4"
+    photo: /uploads/clients/lexisnexis.svg
+  - name: SymphonyRetail
+    position: "5"
+    photo: /uploads/clients/symphony.svg
+  - name: Nilsen
+    position: "6"
+    photo: /uploads/clients/nielsen.svg
+  - name: ACIWorldwide
+    position: "7"
+    photo: /uploads/clients/aci.svg
+  - name: Cardlytics
+    position: "8"
+    photo: /uploads/clients/cardlytics.svg

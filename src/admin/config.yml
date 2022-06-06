@@ -1,0 +1,238 @@
+backend:
+  name: github
+  repo: yellowbrick-data/yb-web
+local_backend: true
+url: http://localhost:8081/api/v1
+use_graphql: true
+media_folder: static/uploads
+public_folder: /uploads
+publish_mode: editorial_workflow
+
+collections:
+  -
+    label: Blog Posts
+    name: blog
+    folder: data/blog
+    create: true
+    slug: "{{slug}}"
+    media_folder: /static/uploads/blog
+    public_folder: /uploads/blog
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Author,  name: author, widget: relation, collection: authors,searchFields: [name], displayFields: [name], valueField: id}
+      - {label: Description, name: description, widget: string}
+      - {label: Publish Date, name: date, widget: date}
+      - {label: Meta Title, name: metaTitle, widget: string,required: false}
+      - {label: Cover Image, name: coverImage, widget: image,media_folder: /static/uploads/blog,public_folder: /uploads/blog}
+      - {label: Cover Image Alt/Title, name: cover_alt, widget: string,required: false}
+      - {label: Thumbnail Image, name: thumbnailImage, widget: image, required: false,media_folder: /static/uploads/blog,public_folder: /uploads/blog}
+      - {label: Categories, name: categories, widget: select, multiple: true, options: [{label: 'Cloud', value: 'cloud'}, {label: 'Migration', value: 'migration'}, {label: 'Partners', value: 'partners'}, {label: 'Product', value: 'product'}, {label: 'Research', value: 'research'}, {label: 'Security', value: 'security'}, {label: 'Use Cases', value: 'use-cases'}, {label: 'Yellowbrick and TPC-DS', value: 'yellowbrick-and-tpc-ds'}, {label: 'Engineering', value: 'engineering'}, {label: 'Guest Blog', value: 'guest-blog'}, {label: 'Modernization', value: 'modernization'}, {label: 'Life at Yellowbrick', value: 'life-at-yellowbrick'}]}
+      - {label: Featured?, name: featured, widget: boolean }
+      - {label: Body, name: body, widget: markdown}
+  -
+    label: Authors
+    name: authors
+    folder: data/authors
+    create: true
+    slug: "{{slug}}"
+    identifier_field: name
+    media_folder: /static/uploads/authors
+    public_folder: /uploads/authors
+    fields:
+      - {label: "ID", name: "id", widget: "id"}
+      - {label: Author Name, name: name, widget: string}
+      - {label: Position, name: position, widget: string}
+      - {label: Author Image, name: authorImage, widget: image,media_folder: /static/uploads/authors,public_folder: /uploads/authors}
+      - {label: About Author/Professional, name: authorAbout, widget: markdown}
+      - {label: Twitter Profile URL, name: twitterUrl, widget: string, required: false}
+      - {label: Linkedin Profile URL, name: linkedinUrl, widget: string, required: false}
+      - {label: Created Date, name: date, widget: date}
+  -
+    label: Customers
+    name: client
+    files:
+      -
+        label: Logos
+        name: logos
+        file: data/pages/client.yml
+        media_folder: /static/uploads/clients
+        public_folder: /uploads/clients
+        fields:
+          -
+            label: Logos
+            name: logo
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Position, name: position, widget: string}
+              - {label: Photo, name: photo, widget: image,media_folder: /static/uploads/clients,public_folder: /uploads/clients}
+  -
+    label: Pages
+    name: pages
+    files:
+      -
+        label: Home
+        name: home
+        file: data/pages/home.yml
+        fields:
+          -
+            label: Banner (Left)
+            name: bannerLeft
+            widget: object
+            fields:
+              - {label: Eyebrow, name: eyebrow, widget: string}
+              - {label: Eyebrow Color, name: eyebrowColor, widget: select, options: [{label: Yellow1, value: 'text-yellow1'}, {label: Gray500, value: 'text-gray-500'}], default: [{label: Yellow1, value: 'text-yellow1'}]}
+              - {label: Title, name: title, widget: string}
+              - {label: Title Color, name: titleColor, widget: select, options: [{label: White, value: 'text-white'}, {label: Gray700, value: 'text-gray-700'}], default: [{label: White, value: 'text-white'}]}
+              - {label: Url, name: url, widget: string}
+              - {label: Background Image, name: image, widget: image}
+          -
+            label: Banner (Right)
+            name: bannerRight
+            widget: object
+            fields:
+              - {label: Eyebrow, name: eyebrow, widget: string}
+              - {label: Eyebrow Color, name: eyebrowColor, widget: select, options: [{label: Yellow1, value: 'text-yellow1'}, {label: Gray500, value: 'text-gray-500'}], default: [{label: Yellow1, value: 'text-yellow1'}]}
+              - {label: Title, name: title, widget: string}
+              - {label: Title Color, name: titleColor, widget: select, options: [{label: White, value: 'text-white'}, {label: Gray700, value: 'text-gray-700'}], default: [{label: White, value: 'text-white'}]}
+              - {label: Url, name: url, widget: string}
+              - {label: Background Image, name: image, widget: image}
+      -
+        label: Team Page
+        name: team
+        file: data/pages/team.yml
+        fields:
+          -
+            label: Members
+            name: members
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Position, name: position, widget: string}
+              - {label: Photo, name: photo, widget: image}
+              - {label: Body, name: body, widget: markdown}
+      -
+        label: Events
+        name: events
+        file: data/pages/events.yml
+        fields:
+          -
+            label: Hero
+            name: Hero
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+          -
+            label: Upcoming Section
+            name: upcomingSection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+          -
+            label: Past Section
+            name: pastSection
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+          -
+            label: Events
+            name: events
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Date, name: date, widget: date}
+              - {label: End Date, name: endDate, widget: date}
+              - {label: Location, name: location, widget: string}
+              - {label: Image, name: image, widget: image}
+              - {label: URL, name: url, widget: string}
+              - {label: Description, name: description, widget: string}
+      -
+        label: Customers
+        name: customers
+        file: data/pages/customers.yml
+        fields:
+          -
+            label: Customers
+            name: customers
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Industry, name: industry, widget: string}
+              - {label: Body, name: body, widget: markdown}
+              - {label: 'URL (Leave blank to place logo in storyless section.)', name: url, widget: string}
+              - {label: Logo, name: image, widget: image}
+      -
+        label: Partners
+        name: partnerPage
+        file: data/pages/partners.yml
+        fields:
+          -
+            label: Partners
+            name: partners
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Image, name: photo, widget: image}
+              - {label: URL, name: url, widget: string}
+              - {label: Body, name: body, widget: markdown}
+      -
+        label: Yellowbrick in the News
+        name: news
+        file: data/pages/in-the-news.yml
+        fields:
+          -
+            label: Articles
+            name: articles
+            widget: list
+            fields:
+              - {label: URL, name: url, widget: string}
+              - {label: Image, name: photo, widget: image}
+              - {label: Date, name: date, widget: date}
+              - {label: Body, name: body, widget: markdown}
+              - {label: Description, name: description, widget: string}
+      -
+        label: Resources
+        name: resourcePage
+        file: data/pages/resources.yml
+        fields:
+          -
+            label: Documents
+            name: documents
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Image, name: photo, widget: image}
+              - {label: URL, name: url, widget: string}
+              - {label: Category, name: category, widget: select, multiple: false, options: [case-study, comparison,Data Sheets,  data Sheets, executive-brief, data-sheet overview, specification, use-case]}
+  -
+    label: Press Releases
+    name: releases
+    folder: data/press-releases
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Author, name: author, widget: string}
+      - {label: Description, name: description, widget: string}
+      - {label: Publish Date, name: date, widget: date}
+      - {label: Cover Image, name: coverImage, widget: image}
+      - {label: Body, name: body, widget: markdown}
+      - {label: Featured?, name: featured, widget: boolean}
+      - {label: Boilerplate, name: boilerplate, widget: string, required: false}
+  -
+    label: Webcasts
+    name: webcasts
+    folder: data/webcasts
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Description, name: description, widget: string, required: false}
+      - {label: Cover Image, name: coverImage, widget: image}
+      - {label: Publish Date, name: date, widget: date}
+      - {label: Time, name: time, widget: string, required: false}
+      - {label: Webcast Link, name: webcastLink, widget: string}
+      - {label: Upcoming, name: upcoming, widget: boolean, required: false}
+      - {label: Pinned, name: pinned, widget: boolean, required: false}
+      - {label: Hidden, name: hidden, widget: boolean, required: false}
+      - {label: isSummit, name: isSummit, widget: boolean, required: false}
+

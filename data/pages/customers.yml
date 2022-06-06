@@ -1,0 +1,67 @@
+customers:
+  - name: Catalina Marketing
+    industry: Retail/CPG
+    url: /resources/case-studies/catalina/
+    image: /uploads/customers/catalina-formatted.svg
+    body: >+
+      Catalina Marketing is the market leader in shopper intelligence and targeted in-store and digital media. The company delivers $6.1 billion in consumer value annually, combining the richest buyer history database in the world.
+  - name: BMW Group Financial Services
+    industry: Automotive
+    url: /press-releases/yellowbrick-selected-to-accelerate-bmw-group-financial-services-analytics-performance-and-capabilities/
+    image: /uploads/customers/bmw-formatted.png
+    body: >+
+      BMW Group Financial Services is a data-driven enterprise that aims to provide the best possible service and experience for customers. They are one of the leading financial service providers in the automotive sector serving customers worldwide.
+  - name: Symphony RetailAI
+    industry: Retail
+    url: /resources/case-studies/symphony-retail-AI/
+    image: /uploads/customers/symphony-formatted.svg
+    body: >+
+      Symphony RetailAI is the leading global provider of Artificial Intelligence-enabled decision platforms, solutions and customer-centric insights that drive validated growth for retailers and CPG manufacturers, from customer intelligence to personalized marketing.
+  - name: TEOCO
+    industry: Telecommunications
+    url: /resources/case-studies/teoco/
+    image: /uploads/customers/teoco-formatted.svg
+    body: >+
+      TEOCO is a leading provider of analytics, assurance and optimization solutions to over 300 communication service providers (CSPs) and OEMs worldwide.
+  - name: LexisNexis
+    industry: Financial services
+    url: /resources/case-studies/lexisnexis/
+    image: /uploads/customers/lexisnexis-formatted.svg
+    body: >+
+      A global digital fraud and identity-authentication service, LexisNexis is an online portal accessed by thousands of users around the world. The portal serves over 5,000 global brands, helping them verify more than 20 billion financial transactions each year.
+  - name: Top 10 financial services company
+    industry: Banking
+    url: /resources/case-studies/top-financial-services-company/
+    image: /uploads/customers/YB_CustomerFinancial.jpg
+    body: >+
+      A top 10 multinational financial services corporation and member of the S&P 100, with hundreds of billions of dollars in annual revenue needed Yellowbrick to analyze petabytes of transactional data across its companies, partners and more.
+  - name: Top 3 global insurance company
+    industry: Insurance
+    url: /resources/case-studies/top-global-insurance-company/
+    image: /uploads/customers/YB_CustomerInsurance.jpg
+    body: >+
+      A top 3 global insurance company turns to Yellowbrick to speed up claims processing and compliance, taking a two-day process down to less than two hours and making them the first insurance company to comply with IFRS 17.
+  - name: Melco Resorts & Entertainment
+    industry: Hospitality & Casino
+    url: /resources/case-studies/melco/
+    image: /uploads/customers/melco-formatted.png
+    body: >+
+      Melco Resorts & Entertainment is a developer, owner, and operator of casino gaming and resort facilities in Asia and Europe. As a global leader in premium integrated resorts, they strive to bring a unique blend of design, entertainment, and quality to guest experiences.
+  - name: Top 10 mobile operator
+    industry: Telecommunications
+    url: /resources/case-studies/top-telecom-company/
+    image: /uploads/customers/YB_CustomerMobile.jpg
+    body: >+
+      One of the top 10 mobile operators in the world depends on Yellowbrick to safeguard millions in revenue and increase time-to-insight by 20X.
+  - name:  ACI World Wide
+    image: /uploads/customers/aci.svg
+  - name: Nielsen
+    image: /uploads/customers/nielsen.png
+  - name: Cardlytics
+    image: /uploads/customers/cardlytics.png
+  - name: Clarity Innovations
+    image: /uploads/customers/clarity-tight.svg
+  - name: SF Express
+    image: /uploads/customers/sf-express.png
+  - name: Alliance Data
+    image: /uploads/customers/alliance-data.png

@@ -1,0 +1,105 @@
+/* purgecss start ignore */
+
+body {
+  @apply font-body font-light;
+  -webkit-tap-highlight-color: transparent; /* prevents tap hightlights */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-normal leading-tight rfs-mb-3;
+}
+
+h1 {
+  @apply rfs-text-5xl;
+}
+
+h2 {
+  @apply rfs-text-4xl;
+}
+
+h3 {
+  @apply rfs-text-3xl;
+}
+
+h4 {
+  @apply rfs-text-2xl;
+}
+
+h5 {
+  @apply rfs-text-xl;
+}
+
+h6 {
+  @apply rfs-text-base;
+}
+
+.cky-preference-content-wrapper p {
+    margin-bottom: 0.5rem !important;
+}
+
+.cky-footer-wrapper div:last-child {
+    display: none !important;
+}
+
+.blog,
+p:not(.cky-preference-content-wrapper p):not(.cky-accordion-header-des p):not(.cky-notice-des p):not(.blog_author) {
+    @apply rfs-text-base rfs-mb-6;
+    & a:not(.button):not(.link):not(.cky-policy)
+
+{
+    @apply font-normal relative no-underline text-gray-500;
+    border-bottom: 2px solid #c6c6c6;
+    background-image: linear-gradient(to right, #fff 50%, #1F292E 50%);
+    background-position: 0 0;
+    background-size: 200%;
+    transition: all .2s;
+    &:hover {
+      @apply text-yellow1;
+      background-position: -100%;
+    }
+    &.dark {
+      @apply font-normal relative no-underline text-white;
+      border-bottom: 2px solid #c6c6c6;
+      background-image: linear-gradient(to right, #1F292E 50%, #FECF41 50%);
+      &:hover {
+        @apply text-black;
+        background-position: -100%;
+      }
+    }
+    &.yellow1 {
+      @apply font-normal relative no-underline text-black border-b-2 border-gray-400;
+      background-image: linear-gradient(to right, #FECF41 50%, #1F292E 50%);
+      &:hover {
+        @apply text-white;
+        background-position: -100%;
+      }
+    }
+  }
+} footer {
+  & p {
+    & a {
+      border-bottom: none;
+      background-image: none;
+      transition: none;
+      &:hover {
+        @apply text-white;
+        background-position: center;
+      }
+    }
+  }
+} blockquote {
+  @apply text-gray-500 border-l-4 rfs-pl-4 rfs-my-8;
+} ul {
+  @apply list-disc;
+} ol {
+  @apply list-decimal;
+} ul, ol {
+  @apply p-2 m-2 pl-4;
+  & li {
+    @apply pb-2
+  }
+} .blog ul, .blog ol {
+  padding-left: 2.5rem;
+}
+
+/* purgecss end ignore */

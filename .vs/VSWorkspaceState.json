@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\data",
+    "\\data\\blog",
+    "\\data\\resources",
+    "\\src",
+    "\\src\\pages",
+    "\\src\\pages\\cloud",
+    "\\src\\templates",
+    "\\static",
+    "\\static\\meta-tags"
+  ],
+  "SelectedNode": "\\data\\blog\\hello-trafalgar-square.md",
+  "PreviewInSolutionExplorer": false
+}

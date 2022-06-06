@@ -1,0 +1,89 @@
+/* purgecss start ignore */
+
+.table-header {
+	color:#fff;
+	font-size: 2.5rem;
+	font-weight: 700;
+	justify-content: flex-start;
+}
+.table-header
+.heading-row:nth-child(1) {
+	width: 300px;
+	border-right: solid 2px #fff;
+}
+.table-header
+.heading-row:last-of-type {
+	border: none;
+}
+.table-header
+.heading-row {
+	color: #fff;
+	text-align: center;
+	background-color: #4B5459;
+	border-right: solid 2px #fff;
+}
+.subTable-header
+.heading-row:nth-child(1) {
+	min-width: 300px;
+	height: 100%;
+}
+.subTable-header {
+	background-color: #fff;
+	justify-content: flex-start;
+	align-items: center;
+}
+.subTable-header
+.heading-row {
+	text-align: center;
+	width: 100%;
+	padding: 20px;
+}
+.tableStat-header {
+	justify-content: flex-start;
+	align-items: stretch;
+}
+.tableStat-header:nth-child(odd) {
+	background-color: rgba(227, 227, 230, 1);
+}
+.tableStat-header:nth-child(even) {
+	background-color: #fff;
+}
+.tableStat-header
+.stat-row:nth-child(1) {
+	position: relative;
+	min-width: 300px;
+	text-align: left;
+	border-right: solid 1px #4B5459;
+	font-weight: 500;
+	align-items: flex-start;
+}
+.tableStat-header
+.stat-row {
+	flex-grow: 1;
+	padding: 20px;
+	width: 100%;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+    justify-content: center;
+}
+
+.stat-row .checkmark::before {
+	left: unset;
+}
+
+.is-mobile .table-header .heading-row:nth-child(1) {
+	width: inherit;
+	border-bottom: solid 2px #fff;
+}
+.is-mobile .tableStat-header .stat-row:nth-child(1),
+.is-mobile .table-subHeading div:nth-child(1) {
+	min-width: 40%;
+}
+.is-mobile .table-subHeading .stat-row,
+.is-mobile .tableStat-header .stat-row  {
+	width: 30%;
+}
+
+/* purgecss end ignore */

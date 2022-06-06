@@ -1,0 +1,136 @@
+/* purgecss start ignore */
+
+.hs-form-dark {
+  & .hs-form-wrapper {
+    & .form-columns-2 {
+      @apply w-full flex flex-row flex-wrap;
+      max-width: 100%;
+      & .hs-form-field {
+        @apply flex;
+        width: 50%;
+        float: none;
+      }
+    }
+    & .form-columns-2 {
+      width: 100%;
+    }
+    & .hs-form-field {
+      @apply my-4;
+      & .hs-input {
+        @apply rounded-4 py-3 px-3 border border-gray-200 rfs-text-base w-full;
+        &.error {
+          @apply border-b border-red-500;
+        }
+      }
+      & > label {
+        @apply text-yellow1 rfs-text-base;
+        & span {
+          & .hs-form-required {
+            @apply text-red-500 rfs-text-sm;
+          }
+        }
+      }
+      & .hs-error-msgs {
+        @apply rfs-text-sm text-red-500 my-0 pb-2 pt-0;
+      }
+    }
+    & .hs-submit {
+      & .actions {
+        & .hs-button {
+          @apply bg-yellow1 text-black rfs-text-base rounded-sm;
+          &.primary {
+            @apply px-6 py-2;
+          }
+          &.large {
+            @apply px-8 py-3;
+          }
+        }
+      }
+    }
+  }
+}
+
+.hs-form-light {
+  & .hs-form-wrapper {
+    & .legal-consent-container {
+      & p {
+        @apply rfs-text-xs mb-0 leading-none;
+      }
+    }
+    & .form-columns-2 {
+      @apply w-full my-4;
+      max-width: 100%;
+      & .hs-form-field {
+        @apply m-0;
+        width: 50%;
+        float: left;
+      }
+    }
+    & .form-columns-1 {
+      @apply my-4;
+      width: 100%;
+      max-width: 100%;
+      & .hs-form-field {
+        @apply m-0;
+        width: 100%;
+      }
+    }
+    & .form-columns-3 {
+      display: none;
+    }
+    & .hs-form-field {
+      & .hs-input {
+        @apply rounded-4 py-3 px-3 border border-gray-200 rfs-text-base w-full;
+        &.error {
+          @apply border-b border-red-700;
+        }
+      }
+      & > label {
+        @apply text-black rfs-text-base;
+        & span {
+          &.hs-form-required {
+            @apply text-red-700 rfs-text-sm;
+          }
+        }
+      }
+      & .hs-error-msgs {
+        @apply rfs-text-sm text-red-700 my-0 pb-2 pt-0;
+      }
+    }
+    & .hs-submit {
+      & .actions {
+        & .hs-button {
+          @apply bg-yellow1 text-black rfs-text-base rounded-sm;
+          &.primary {
+            @apply px-6 py-2;
+          }
+          &.large {
+            @apply px-8 py-3;
+          }
+        }
+      }
+    }
+  }
+}
+
+.hs-form-wrapper
+> iframe {
+  max-width: 100%;
+  width: 100% !important;
+}
+
+@media(max-width: 768px) {
+  .hs-form-wrapper
+  > iframe {
+    max-width: 100%;
+    width: 100% !important;
+  }
+}
+
+.hs-form-inline {
+  & .hs-form-wrapper .form-columns-2 .hs-form-field {
+    display: inline-block;
+  }
+}
+
+/* purgecss end ignore */

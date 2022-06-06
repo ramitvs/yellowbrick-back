@@ -1,0 +1,154 @@
+hero:
+  title: Events
+upcomingSection:
+  title: Upcoming Events
+pastSection:
+  title: Past Events
+events:
+  -
+    title: Tableau Conference
+    date: 2020-10-05
+    endDate: 2020-10-08
+    location: Las Vegas, NV
+    image: /uploads/events-tableau-vegas.jpg
+    url: https://www.tableau.com/community/events/tableau-conference-2020-2020-10-05
+  -
+    title: AFCEA West
+    date: 2020-03-02
+    endDate: 2020-03-03
+    location: San Diego, CA
+    image: /uploads/events-afcea-west.jpg
+    url: https://www.westconference.org/West20/Public/Enter.aspx
+  -
+    title: Modernizing the Legacy Data Center
+    date: 2020-03-02
+    endDate: 2020-03-02
+    location: McLean, VA
+    image: /uploads/events-meetup-va.jpg
+    url: https://www.meetup.com/DMV-Data-Warehouse-Meetup-Group/events/268830015/
+  -
+    title: 2020 Silicon Valley Global Innovation Summit
+    date: 2020-02-11
+    endDate: 2020-02-11
+    location: Menlo Park, CA
+    image: /uploads/events-silicon-valley-global-summit.jpg
+    url: https://hmgstrategy.com/events/upcoming-summits/2020/02/11/default-calendar/2020-silicon-valley-global-innovation-summit
+  -
+    title: TDWI - Strategy Summit for Analytics
+    date: 2020-02-10
+    endDate: 2020-02-11
+    location: Las Vegas, NV
+    image: /uploads/events-tdwi.jpg
+    url: https://tdwi.org/events/strategy-summits/las-vegas/home.aspx
+  -
+    title: Microstrategy World
+    date: 2020-02-04
+    endDate: 2020-02-06
+    location: Orlando, FL
+    image: /uploads/events-microstrategyworld-2020.jpg
+    url: https://events.microstrategy.com/events/microstrategy-world-2020/event-summary-dcd89bbe5b66413ba7cacb7d78f5f7fa.aspx?RefID=mstr-date
+  -
+    title: Tableau Conference
+    date: 2019-11-12
+    endDate: 2019-11-15
+    location: Las Vegas, NV
+    image: /uploads/events-tableau.png
+    url:
+  -
+    title: Strata Data Conference
+    date: 2019-09-23
+    endDate: 2019-09-26
+    location: New York, NY
+    image: /uploads/events-strata.png
+    url:
+  -
+    title: Informatica World Tour
+    date: 2019-09-11
+    endDate:
+    location: Chicago, IL
+    image: /uploads/events-informatica.jpg
+    url: https://now.informatica.com/IWT-Chicago-2019.html#fbid=z1qQWZf9mnA
+  -
+    title: DoDIIS WorldWide
+    date: 2019-08-18
+    endDate: 2019-08-21
+    location: Tampa, Fl
+    image: /uploads/events-dodiis.png
+    url: https://now.informatica.com/IWT-Chicago-2019.html#fbid=z1qQWZf9mnA
+  -
+    title: Meetup
+    date: 2019-06-12
+    endDate:
+    location: Tampa, Fl
+    image: /uploads/events-meetup.png
+    url:
+  -
+    title: MicroStrategy Symposium Series
+    date: 2019-06-06
+    endDate:
+    location: Chicago, IL
+    image: /uploads/events-symposiumseries.png
+    url:
+  -
+    title: Informatica World
+    date: 2019-05-20
+    endDate: 2019-05-23
+    location: Las Vegas, NV
+    image: /uploads/events-informaticworld.jpg
+    url:
+  -
+    title: MicroStrategy Symposium Series
+    date: 2019-05-16
+    endDate:
+    location: Washington, DC
+    image: /uploads/events-symposiumseries.png
+    url:
+  -
+    title: MicroStrategy Symposium Series
+    date: 2019-05-15
+    endDate:
+    location: New York, NY
+    image: /uploads/events-symposiumseries.png
+    url:
+  -
+    title: MicroStrategy Symposium Series
+    date: 2019-05-14
+    endDate:
+    location: Atlanta, GA
+    image: /uploads/events-symposiumseries.png
+    url:
+  -
+    title: AEBS 2019
+    date: 2019-04-18
+    endDate:
+    location: Milwauke, WI
+    image: /uploads/events-aebs.png
+    url:
+  -
+    title: Strata Data Conference
+    date: 2019-03-25
+    endDate: 2019-03-28
+    location: San Francisco, CA
+    image: /uploads/events-stratasfo.png
+    url:
+  -
+    title: Gartner Summits
+    date: 2019-03-18
+    endDate: 2019-03-21
+    location: Orlando, FL
+    image: /uploads/events-gartnersummits.png
+    url:
+  -
+    title: Think 2019
+    date: 2019-02-12
+    endDate: 2019-02-14
+    location: San Francisco, CA
+    image: /uploads/events-think2019.png
+    url:
+  -
+    title: MicroStrategy World
+    date: 2019-02-04
+    endDate: 2019-02-06
+    location: Phoenix, AZ
+    image: /uploads/events-microstrategyworld.png
+    url:

@@ -1,0 +1,397 @@
+documents:
+  -
+    title: >
+      Build a “data lakehouse” with Yellowbrick
+    category: brief
+    image: /uploads/thumb-data-lake-augmentation.png
+    documentLink: /uploads/BRIEF_Yellowbrick_Data_Lake_Augmentation.pdf
+  -
+    title: Economics of Yellowbrick Data Warehouse
+    category: brief
+    image: /uploads/yellowbrick_dw_economics-thumb.jpg
+    documentLink: /uploads/yellowbrick_dw_economics.pdf
+  -
+    title: Modern analytics for the insurance industry
+    category: brief
+    image: /uploads/thumb-partner-brief-systech-insurance.png
+    documentLink: /uploads/BRIEF-Insurance-Analytics-Systech-Yellowbrick.pdf
+    id: systech-insurance-partner-brief
+    class: ungated-asset
+  -
+    title: Real-time data analytics for the insurance industry
+    category: brief
+    image: /uploads/insurance-industry-brief-thumbnail.png
+    documentLink: https://ww2.yellowbrick.com/hubfs/Briefs/Real-time%20analytics%20for%20Insurance%20with%20Yellowbrick.pdf
+  -
+    title: Real-Time Fraud Analytics
+    category: brief
+    image: /uploads/real-time-fraud-analytics.png
+    documentLink: https://ww2.yellowbrick.com/hubfs/Whitepapers/One%20Sheeters/Yellowbrick%20for%20Real-Time%20Fraud%20Detection.pdf
+  -
+    title: 'Yellowbrick in the cloud: Private, public, or hybrid'
+    category: brief
+    image: /uploads/hybrid-cloud-brief-thumb.jpg
+    documentLink: /uploads/hybrid-cloud-brief.pdf
+  -
+    title: Yellowbrick vs. SQL Server
+    category: brief
+    image: /uploads/brief-yellowbrick-vs-sql-server-thumb.jpg
+    documentLink: https://ww2.yellowbrick.com/hubfs/Briefs/7%20Reasons%20to%20Replace%20SQL%20Server.pdf
+  -
+    title: Simplify data security - even in the cloud
+    category: brief
+    image: /uploads/thumb-protegrity-brief.png
+    documentLink: /uploads/BRIEF_Yellowbrick_Protegrity.pdf
+  -
+    title: Yellowbrick vs. Oracle
+    category: brief
+    image: /uploads/brief-7-reasons-replace-Oracle-with-Yellowbrick.png
+    documentLink: https://ww2.yellowbrick.com/hubfs/Briefs/BRIEF%20-%207%20reasons%20to%20replace%20Oracle%20with%20Yellowbrick.pdf
+  -
+    title: Top 10 Financial Services Company (Market Maker/Hedge Fund)
+    category: case-study
+    image: /uploads/casestudies/financial-services-industry.png
+    url: https://read.yellowbrick.com/hubfs/Resources/Case%20Studies/YB_Case_Study_Top_10_FSI-Market_Marker-Hedge_Fund.pdf
+    id: top-10-financial-services
+  -
+    title: Symphony RetailAI
+    category: case-study
+    image: /uploads/cs-symphony-thumb.jpg
+    url: /resources/case-studies/symphony-retail-AI/
+  -
+    title: Top 10 Hospitality and Casino Customer
+    category: case-study
+    image: /uploads/cs-melco-thumb.jpg
+    url: /resources/case-studies/melco/
+  -
+    title: Top 10 Telecom Company
+    category: case-study
+    image: /uploads/cs-top10-telco-thumb.jpg
+    url: /resources/case-studies/top-telecom-company/
+  -
+    title: Teoco - Insights, Innovation, and Savings
+    category: case-study
+    image: /uploads/cs-teoco-thumb.jpg
+    url: /resources/case-studies/teoco/
+  -
+    title: Catalina - 182X Better Query Performance
+    category: case-study
+    image: /uploads/cs-catalina-thumb.jpg
+    url: /uploads/cs-catalina.pdf
+  -
+    title: ThreatMetrix - Split-second Fraud Detection
+    category: case-study
+    image: /uploads/cs-threatmetrix-thumb.jpg
+    url: /resources/case-studies/lexisnexis/
+  -
+    title: Top 10 Financial Services Company
+    category: case-study
+    image: /uploads/cs-top10-financial-services-thumb.jpg
+    url: /resources/case-studies/top-financial-services-company/
+  -
+    title: Top 3 Global Insurance Company
+    category: case-study
+    image: /uploads/cs-top-global-insurance-company-thumb.jpg
+    url: /resources/case-studies/top-global-insurance-company/
+  -
+    title: Snowflake Comparison
+    category: comparison
+    image: /uploads/comparison-snowflake.jpg
+    url: /resources/comparisons/snowflake-comparison/
+  -
+    title: Migrate from Teradata
+    category: executive-brief
+    image: /uploads/eb-migrate-teradata-thumb.jpg
+    url: /resources/executive-briefs/migrate-from-teradata/
+  -
+    title: Hybrid Cloud Architecture for Data Analytics
+    category: executive-brief
+    image: /uploads/eb-hybrid-cloud-analytics-thumb.jpg
+    url: /resources/executive-briefs/hybrid-cloud-architecture-for-data-analytics/
+  -
+    title: Data Lake Augmentation
+    category: executive-brief
+    image: /uploads/eb-data-lake-thumb.jpg
+    url: /resources/executive-briefs/data-lake-augmentation/
+  -
+    title: Data Warehouse Modernization
+    category: executive-brief
+    image: /uploads/eb-data-warehouse-modernization-thumb.jpg
+    url: /resources/executive-briefs/data-warehouse-modernization/
+  -
+    title: Teradata to Yellowbrick Hybrid Data Warehouse
+    category: migration-guide
+    image: /uploads/mg-teradata-nextpathway-thumb.jpg
+    url: /uploads/GUIDE_Teradata_Yellowbrick_Migration.pdf
+    class: ungated-asset
+    id: teradata-migration-guide
+  -
+    title: Netezza to Yellowbrick Hybrid Data Warehouse
+    category: migration-guide
+    image: /uploads/images/thumb-migration-guide-netezza.png
+    url: /resources/migration-guides/netezza/
+    class: ungated-asset
+    id: netezza-migration-guide
+  -
+    title: Migrate from SQL Server to Yellowbrick
+    category: migration-guide
+    image: /uploads/thumb-migration-guide-sql-server.png
+    url: /uploads/GUIDE SQL Server Yellowbrick Migration.pdf
+    class: ungated-asset
+    id: sql-server-migration-guide
+  -
+    title: Automated migration from Oracle to Yellowbrick with Nexus Server
+    category: migration-guide
+    image: /uploads/MIGRATION_GUIDE_from_Oracle_to_Yellowbrick_with_Nexus_Server_thumb.png
+    url: /resources/migration-guides/oracle-to-yellowbrick-with-nexus-server
+  -
+    title: Automated migration from SQL Server to Yellowbrick with Nexus Server
+    category: migration-guide
+    image: /uploads/nexus-thumbnail.png
+    url: /resources/migration-guides/sql-server-to-yellowbrick-with-nexus-server/
+    class: ungated-asset
+    id: automated-migration-from-sql-server-migration-guide
+  -
+    title: Yellowbrick and the Distributed Data Cloud
+    category: overview
+    image: /uploads/resources/Overview_Distributed-Data-Cloud.png
+    url: https://ww2.yellowbrick.com/hubfs/Resources/Overview/Overview_Distributed%20Data%20Cloud.pdf
+  -
+    title: Expediting Migration and Expansion
+    category: overview
+    image: /uploads/ov-migration-expansion-thumb.jpg
+    url: /resources/overviews/expediting-migration-and-expansion/
+  -
+    title: Netezza Migration Overview
+    category: overview
+    image: /uploads/ov-netezza-migration-thumb.jpg
+    url: /uploads/ov-netezza-migration.pdf
+  -
+    title: How to Get the Most from Your Analytics Tools
+    category: overview
+    image: /uploads/ds-analytics-tools-thumb.jpg
+    url: /resources/overviews/how-to-get-the-most-from-your-analytics-tools/
+  -
+    title: Achieving Power from Simplicity
+    category: overview
+    image: /uploads/ov-power-from-simplicity-thumb.jpg
+    url: /resources/overviews/achieving-power-from-simplicity/
+  -
+    title: Top 10 Ways Yellowbrick Delivers a Seamless Data Warehouse Upgrade
+    category: overview
+    image: /uploads/ov-top-10-thumb.jpg
+    url: /resources/overviews/10-ways-yellowbrick-delivers-a-seamless-data-warehouse-upgrade/
+  -
+    title: Yellowbrick Technical Overview
+    category: overview
+    image: /uploads/thumb-brief-technical-overview.png
+    url: /uploads/BRIEF_Yellowbrick_Technical_Overview.pdf
+    class: ungated-asset
+    id: yellowbrick-technical-overview
+  -
+    title: Modernize Your Data Warehouse in Minutes
+    category: solution-brief
+    image: /uploads/Yellowbrick_NextPathway_solution_brief_thumb.jpg
+    url: /resources/solutions-briefs/modernize-with-next-pathway/
+  -
+    title: iCEDQ Partner Brief
+    category: solution-brief
+    image: /uploads/thumb-solution-brief-icedq.png
+    url: /uploads/BRIEF Yellowbrick iCEDQ.pdf
+    class: ungated-asset
+    id: icedq-partner-brief
+  -
+    title: Manta Partner Brief
+    category: solution-brief
+    image: /uploads/thumb-solution-brief-manta.png
+    url: /uploads/BRIEF Yellowbrick Manta.pdf
+    class: ungated-asset
+    id: manta-partner-brief
+  -
+    title: Protegrity Partner Brief
+    category: solution-brief
+    image: /uploads/thumb-solution-brief-protegrity.png
+    url: /uploads/BRIEF Yellowbrick Protegrity.pdf
+    class: ungated-asset
+    id: protegrity-partner-brief
+  -
+    title: Sotero Partner Brief
+    category: solution-brief
+    image: /uploads/thumb-solution-brief-sotero.png
+    url: /uploads/BRIEF Yellowbrick Sotero.pdf
+    class: ungated-asset
+    id: sotero-partner-brief
+  -
+    title: Striim Partner Brief
+    category: solution-brief
+    image: /uploads/thumb-solution-brief-striim.png
+    url: /uploads/BRIEF Yellowbrick Striim.pdf
+    class: ungated-asset
+    id: striim-partner-brief
+  -
+    title: Systech Partner Brief
+    category: solution-brief
+    image: /uploads/thumb-solution-brief-systech.png
+    url: /uploads/BRIEF_Yellowbrick_Systech.pdf
+    class: ungated-asset
+    id: systech-partner-brief
+  -
+    title: Yellowbrick Data Security
+    category: solution-brief
+    image: /uploads/thumb-brief-yellowbrick-security.png
+    url: /resources/data-sheets/yellowbrick-data-warehouse-security/
+    class:
+    id:
+  -
+    title: Migrating to Yellowbrick
+    category: data-sheet
+    image: /uploads/migrating-to-yellowbrick_thumbnail.jpg
+    url: https://ww2.yellowbrick.com/hubfs/Resources/Data-Sheets/Migrating%20to%20Yellowbrick.pdf
+inDepthResources:
+    -
+      category: eBook
+      title: Real-time Analytics for Banks and Financial Services Companies
+      image: /uploads/go/eBook_Real-time_analytics_for_banks_and_financial_services_companies.png
+      url: /go/real-time-analytics-for-banks-and-financial-services-companies/
+    -
+      category: eBook
+      title: Powering Top Hedge Funds
+      image: /uploads/go/powering-top-hedge-funds0.png
+      url: /go/powering-top-hedge-funds/
+    -
+      category: eBook
+      title: Why Today's Banks Need a Real-Time Data Warehouse
+      image: /uploads/thumb-ebook-american-banker-finserv.png
+      url: /go/american-banker-finserv/
+    -
+      category: eBook
+      title: Customer Stories - Don’t Take Our Word For It!
+      image: /uploads/go/dont-take-our-word-for-it.jpg
+      url: /go/customer-stories-ebook/
+    -
+      category: eBook
+      title: Meet the Yellowbrick Cloud Data Warehouse
+      image: /uploads/go/meet-the-yellowbrick-cloud-data-warehouse.jpg
+      url: /go/meet-yellowbrick/
+    -
+      category: eBook
+      title: Modernize Your Data Warehouse for Faster, Deeper Insights
+      image: /uploads/ebook-modernize.jpg
+      url: /go/modernize-your-data-warehouse/
+    -
+      category: eBook
+      title: Faster Insights for Insurance Companies
+      image: /uploads/ebook-insurance-thumb.png
+      url: /go/yellowbrick-for-insurance/
+    -
+      category: eBook
+      title: Faster Insights for Banking and Financial Services
+      image: /uploads/ebook-finserv.jpg
+      url: /go/yellowbrick-for-banking-and-financial-services/
+    -
+      category: eBook
+      title: Faster Insights for Telecom Companies
+      image: /uploads/ebook-telecom-thumb.png
+      url: /go/yellowbrick-for-telecom/
+    -
+      category: eBook
+      title: Migrate Teradata Workloads to Yellowbrick
+      image: /uploads/ebook-teradata-thumb.png
+      url: /go/migrate-teradata-workloads-to-yellowbrick/
+    -
+      category: eBook
+      title: Replacing Netezza
+      image: /uploads/ebook-netezza.jpg
+      url: /go/replacing-netezza/
+    -
+      category: eBook
+      title: Turbocharge Your Data Lake
+      image: /uploads/ebook-data-lake-thumb.jpg
+      url: /go/turbocharge-your-data-lake/
+    -
+      category: eBook
+      title: Yellowbrick for Saas Companies
+      image: /uploads/ebook-saas.jpg
+      url: /go/yellowbrick-for-saas-companies/
+    -
+      category: eBook
+      title: Migrate SQL Server Workloads to Yellowbrick
+      image: /uploads/ebook-sql-server.jpg
+      url: /go/migrate-sql-server-workloads-to-yellowbrick/
+    -   
+      category: research-whitepaper
+      title: Building a Modern Data Warehouse on a Distributed Data Cloud
+      image: /uploads/resources/building-a-modern-data-warehouse-on-a-distributed-data-cloud.png
+      url: https://ww2.yellowbrick.com/hubfs/Resources/Research-Reports/Building%20a%20Modern%20Data%20Warehouse%20on%20a%20Distributed%20Data%20Cloud.pdf
+    -
+      category: research-whitepaper
+      title: What to Consider When Choosing a Cloud-Centric Analytical Data Platform
+      image: /uploads/go/what-to-consider-when-choosing-a-cloud-centric-analytical-data-platform-0.png
+      url: /go/constellation-research-dough-henschen-analytical-data-platforms-trend-report/
+    -
+      category: research-whitepaper
+      title: Key Trends in Hybrid, Multicloud and Distributed Cloud for 2021
+      image: /uploads/thumb-whitepaper-key-trends-research.png
+      url: /go/key-trends-research/
+    -
+      category: research-whitepaper
+      title: The Economic Benefits of Yellowbrick
+      image: /uploads/economic-benefits-of-yellowbrick.jpg
+      url: /go/economic-benefits-of-yellowbrick/
+    -
+      category: research-whitepaper
+      title: Yellowbrick adopts K8s and adds control plan
+      image: /uploads/yb-adopts-kubernetes-451-thumb.png
+      url: /go/451-report-yb-manager-kubernetes/
+    -
+      category: whitepaper
+      title: Creating an Enterprise-Wide Data Fabric to Underpin Digital Transformation in Capital Markets
+      image: /uploads/go/enterprise-wide-datafabric-underpin-digital-transformation-capital-markets-pdf.png
+      url: /go/creating-enterprise-wide-data-Fabric-Underpin-Digital-Transformation-Capital-Markets
+    -
+      category: whitepaper
+      title: Visual analytics for insurance customer 360°
+      image: /uploads/go/visual-analytics-for-insurance-customer360.png
+      url: /go/visual-analytics-for-insurance-customer360
+    -
+      category: whitepaper
+      title: Distributed Data Cloud
+      image: /uploads/resources/Whitepaper_Distributed_Data_Cloud.png
+      url: https://ww2.yellowbrick.com/hubfs/Resources/Whitepapers/Whitepaper%20Distributed%20Data%20Cloud.pdf
+    -
+      category: whitepaper
+      title: SAP IQ End of Life
+      image: /uploads/replacing-sap-iq-yb-thumb.png
+      url: /go/sap-iq-replacement-why-yellowbrick/
+    -
+      category: whitepaper
+      title: Modernizing Your Data Warehouse for Hybrid Cloud Analytics
+      image: /uploads/wp-data-warehouse-modernization-analytics-thumb.jpg
+      url: /go/modernizing-your-data-warehouse-for-hybrid-cloud-analytics/
+    -
+      category: whitepaper
+      title: Unlocking the Value of Data Lakes with Hybrid Cloud Analytics
+      image: /uploads/wp-unlock-value-in-data-lakes-thumb.jpg
+      url: /go/unlocking-the-value-of-data-lakes/
+    -
+      category: whitepaper
+      title: Data warehousing for distributed clouds
+      image: /uploads/distributed-cloud-whitepaper-thumb.png
+      url: /go/distributed-cloud-whitepaper/
+    -
+      category: whitepaper
+      title: Real-time Analytics in Insurance
+      image: /uploads/thumb-whitepaper-insurance-industry.png
+      url: /go/insurance-whitepaper/
+      id: insurance-whitepaper
+      class: ungated-asset
+    -
+      category: whitepaper
+      title: Yellowbrick Data Warehouse Architecture
+      image: /uploads/yellowbrick-data-warehouse-architecture-thumb.png
+      url: /go/yellowbrick-data-warehouse-architecture/
+    -
+      category: whitepaper
+      title: Yellowbrick vs Snowflake White Paper
+      image: /uploads/thumb-whitepaper-yellowbrick-vs-snowflake.png
+      url: /go/yellowbrick-vs-snowflake/

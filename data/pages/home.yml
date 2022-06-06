@@ -1,0 +1,20 @@
+bannerLeft:
+  url: /press-releases/zurich-north-america-selects-yellowbricks-cloud-data-warehouse-solution/
+  eyebrow: Press Release
+  title: Yellowbrick Data, the leader in Distributed Data Cloud architecture for
+    data warehousing, today announced that Zurich North America (Zurich), one of
+    the largest providers of insurance solutions and services, selected
+    Yellowbrick to replace its legacy on-premise data warehouse with a robust
+    cloud-based architecture.
+  image: /uploads/yellowbrick-blogimage16-new.jpg
+  eyebrowColor: text-yellow1
+  titleColor: text-white
+bannerRight:
+  eyebrow: Download Now
+  title: GigaOm Radar for Data Warehouses Report to see why GigaOm says that
+    Yellowbrick is emerging as a strong competitor to more established solutions
+    in the areas of cost, performance, and flexibility.
+  url: /go/gigaom-radar-for-data-warehouses/
+  image: /uploads/in-the-news-3.jpg
+  eyebrowColor: text-yellow1
+  titleColor: text-white

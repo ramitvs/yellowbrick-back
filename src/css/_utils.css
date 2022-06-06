@@ -1,0 +1,304 @@
+/* purgecss start ignore */
+
+html,
+body,
+#app {
+  overflow-x: hidden;
+}
+.hero {
+  @apply flex flex-col relative;
+  &:before {
+    content: '';
+    height: 80px;
+    @apply relative w-full;
+  }
+}
+.trans-opacity {
+  transition: opacity 0.25s ease;
+}
+.trans-bg-color {
+  transition: background-color 0.25s ease;
+}
+.trans-color {
+  transition: color 0.25s ease;
+}
+.trans-transform {
+  transition: transform 0.25s ease;
+}
+
+.rotate-45 {
+  transform: rotate(45deg);
+}
+.rotate-90 {
+  transform: rotate(90deg);
+}
+.rotate-180 {
+  transform: rotate(180deg);
+}
+.rotate-270 {
+  transform: rotate(270deg);
+}
+
+.bg-transparent-75 {
+    background-color: rgba(0,0,0,.75);
+}
+
+
+.slide-fade-enter-active {
+  transition: all .2s ease;
+}
+.slide-fade-leave-active {
+  transition: all .2s ease;
+}
+.slide-fade-enter,
+.slide-fade-leave-to {
+  opacity: 0;
+}
+
+
+.vert-50 {
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.zoomer {
+  transform: scale(1);
+  transition: all .25s ease-out;
+
+  &:hover {
+    transform: scale(1.05);
+    transition: all .25s ease-out;
+  }
+}
+
+.hvr-reveal {
+  @apply absolute top-0 left-0 right-0 bottom-0 p-6 bg-transparent opacity-0;
+  transition: all ease-in-out .2s;
+
+  &:hover {
+    @apply bg-white text-gray-600 opacity-100 shadow-lg border-solid border-white border-2;
+  }
+
+  & p {
+    font-size: 0.95rem !important;
+    margin-bottom: 0;
+  }
+}
+
+.line-limit-3 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* number of lines to show */
+  -webkit-box-orient: vertical;
+}
+
+.body-link {
+  transition: color ease .2s;
+  &:hover {
+    transition: color ease .2s;
+  }
+}
+
+.expand-bg {
+  position: relative;
+  z-index: 1;
+  &:before {
+    position: absolute;
+    content: '';
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 100%;
+    opacity: 0;
+    background: #555;
+    transition: all ease .25s;
+    z-index: -1;
+  }
+  &:hover {
+    &:before {
+      right: 0;
+      opacity: .18;
+    }
+  }
+}
+
+/* PARENT CONTAINER NEEDS TO BE POSITION RELATIVE */
+
+.accent {
+  @apply absolute w-2/3 bg-blue left-0;
+  height: 10px;
+  top: -5px;
+  transition: all .2s ease;
+  &.short {
+    @apply w-1/2;
+  }
+  &.yellow {
+    @apply bg-yellow1;
+  }
+}
+.accent-heading {
+  @apply relative py-5;
+  &:before {
+    @apply absolute w-24 bg-teal left-0;
+    content: '';
+    height: 6px;
+    top: -5px;
+  }
+}
+
+/* OVERLINE YELLOW ON HOVER (BLOG,JOBS) */
+
+.accent-yellow {
+  @apply relative left-0 font-normal capitalize rfs-text-sm inline-flex m-0 mr-8 py-1 mb-3 text-gray-600 cursor-pointer;
+  &:after {
+    @apply absolute bg-transparent right-0 left-0 h-1;
+    content: '';
+    top: -.25rem;
+    transition: all ease .2s;
+  }
+  &:hover, &.active {
+    @apply text-gray-400;
+    &:after {
+      @apply bg-yellow1;
+    }
+  }
+}
+
+/* OVERLINE black ON HOVER (BLOG,JOBS) */
+
+.accent-dark {
+  @apply relative left-0 font-normal capitalize rfs-text-sm inline-flex m-0 mr-8 py-1 mb-3 text-gray-600 cursor-pointer;
+  &:after {
+    @apply absolute bg-transparent right-0 left-0 h-1;
+    content: '';
+    top: -.25rem;
+    transition: all ease .2s;
+  }
+  &:hover, &.active {
+    @apply text-gray-400;
+    &:after {
+      @apply bg-gray-500;
+    }
+  }
+}
+
+/* RESPONSIVE YOUTUBE (OR OTHER) VIDEO WRAPPER */
+
+.yt-wrap {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+.yt-wrap iframe,
+.yt-wrap object,
+.yt-wrap embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+.box-link {
+  transform: translateY(0);
+  transition: all .25s ease;
+  & > div {
+    @apply bg-gray-100;
+    transition: all .2s ease;
+  }
+  &:hover {
+    transform: translateY(-5px);
+    cursor: pointer;
+    & > div {
+      @apply bg-white;
+    }
+    & .arrow-btn {
+      animation: bounce-right 1s infinite;
+    }
+    & .accent {
+      @apply w-full;
+    }
+  }
+}
+
+
+.box-link-big {
+  transform: translateY(0);
+  transition: all .25s ease-out;
+  & .arrow-btn {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-position: calc(100% - 3rem) calc(100% - 3rem);
+    background-size: 48px 30px;
+    @apply p-12;
+  }
+  &:hover {
+    transform: translateY(-5px);
+    & .arrow-btn {
+      animation: bounce-right 1s infinite;
+    }
+    & .accent {
+      @apply w-full;
+    }
+  }
+}
+
+
+.quote {
+  @apply relative text-gray-700 pl-10;
+  &:before {
+    content: '';
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 244 212.9'%3E%3Cpath d='M197.1 121.7c-5.4 0-10.8 1.3-16 3.5 3-42 25.6-73.9 62.9-95.4L227.5 0c-54.8 28-87.6 78.5-87.6 139.3 0 46.2 23.1 73.6 54.8 73.6 26.8 0 45-19.5 45-46.9 0-26.1-17.6-44.3-42.6-44.3zM104 29.8L87.6 0C32.9 28 0 78.5 0 139.3c0 46.2 23.1 73.6 54.8 73.6 26.8 0 45-19.5 45-46.9 0-26.2-17.6-44.4-42.6-44.4-5.4 0-10.8 1.3-16 3.5 3-41.8 25.6-73.8 62.8-95.3z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    position: absolute;
+    left: -16px;
+    top: 0;
+    opacity: .2;
+    z-index: 100;
+    width: 54px;
+    height: 44px;
+  }
+  &.right {
+    &:before {
+      left: -10px;
+    }
+  }
+}
+
+/* SELECT BOX STYLES */
+
+.selectbox {
+  @apply block py-2 px-3 m-0 w-full max-w-400 border border-gray-200 rounded-sm bg-white rfs-text-lg;
+  box-sizing: border-box;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 9 7'%3E%3Cpath fill='%230f181d' d='M4.5 0H9L6.8 3.5 4.5 7 2.2 3.5 0 0z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right .7em top 50%;
+  background-size: .5rem auto;
+  &::-ms-expand {
+    display: none;
+  }
+  &:hover {
+      @apply border-gray-500;
+  }
+  &:focus {
+    @apply border-gray-300 text-gray-600;
+      box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+      box-shadow: 0 0 0 3px -moz-mac-focusring;
+      outline: none;
+  }
+  & option {
+      font-weight:normal;
+  }
+}
+
+/* purgecss end ignore */

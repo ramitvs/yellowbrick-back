@@ -1,0 +1,76 @@
+/* purgecss start ignore */
+
+.highlight-title {
+	position: absolute;
+	margin: 0 auto;
+	top: -50px;
+	border-radius: 5px;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.pricing {
+	padding: 0 0 30px;
+}
+@supports (-webkit-touch-callout: none) {
+	.checkmark::before {
+		top: 17px !important;
+	}
+
+	span.tabletext {
+		margin-top: 33px !important;
+	}
+}
+.package-title {
+	background-color: #FFF;
+	border-radius: 8px;
+}
+.checkmark {
+	position: relative;
+	width: 18px;
+	height: 18px;
+}
+.checkmark::before {
+	border-style: solid;
+	border-color: #00C3CD;
+	border-image: initial;
+	border-width: 0px 2px 2px 0px;
+	content: '';
+	height: 13px;
+	left: -20px;
+	position: absolute;
+
+	width: 8px;
+	transform: rotate(45deg);
+}
+.priceTable-container
+.features-container {
+	flex-grow: 3;
+	height: 70%;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+}
+.priceTable-container
+.button-container {
+	height: 30%;
+	position: relative;
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: column;
+}
+.feature-list {
+	position: relative;
+	padding-top: 60px;
+}
+.feature-list
+.list-title {
+	position: absolute;
+	top: 0px;
+	padding: 15px 22px;
+	left:0;
+	right: 0;
+	width: 100%;
+	background-color: rgba(113,128,150,.35);
+}
+
+/* purgecss end ignore */

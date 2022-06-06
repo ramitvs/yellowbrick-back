@@ -1,0 +1,81 @@
+/* purgecss start ignore */
+
+.main-box {
+  padding-top: 50%;
+  &:hover {
+    & .arrow-only {
+      @apply text-teal;
+      &:after {
+        transform: translateX(10px);
+        cursor: pointer;
+        color: teal;
+      }
+    }
+  }
+}
+
+.current-post {
+  & .arrow-only-white {
+    @apply flex flex-row relative items-baseline rfs-text-base font-normal text-white;
+    transition: all .2s ease;
+    &:after {
+      @apply flex ml-2;
+      content: '';
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 30'%3E%3Cpath d='M47.2 13.2L34 .7c-1-1-2.6-.9-3.6.1s-.9 2.6.1 3.6l8.6 8.1H2.5C1.1 12.5 0 13.6 0 15s1.1 2.5 2.5 2.5h36.6l-8.6 8.1c-1 1-1.1 2.6-.1 3.6.5.5 1.2.8 1.8.8.6 0 1.3-.2 1.7-.7l13.2-12.5c.5-.5.8-1.1.8-1.8.1-.7-.2-1.4-.7-1.8z' fill='%231f292e'/%3E%3C/svg%3E ");
+      filter: invert(1);
+      width: 16px;
+      height: 10px;
+      transform: translateX(0);
+      transition: all .2s ease;
+    }
+  }
+  &:hover {
+    & .arrow-only-white {
+      @apply text-teal;
+      &:after {
+        transform: translateX(10px);
+        cursor: pointer;
+        color: teal;
+      }
+    }
+  }
+}
+
+.upcoming {
+  justify-content: flex-start;
+}
+.upcoming
+> .current-post {
+  width: 25%;
+  max-width: 300px;
+  height: auto;
+  order: 2;
+  & .description {
+    display: none;
+  }
+}
+
+.webcast-list
+> .current-post {
+	order: 2;
+}
+
+.webcast-list
+> .current-post.pinned {
+	order: 1;
+}
+
+@media (max-width: 1199px) {
+  .upcoming
+  > .current-post
+  .-isActive
+  .webcast-title {
+    font-size: calc(1.375rem + 1.5vw);
+  }
+}
+
+.extra-padding {
+  padding-top: 130px !important;
+}
+
+/* purgecss end ignore */

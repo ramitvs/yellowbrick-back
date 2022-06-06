@@ -1,0 +1,640 @@
+articles:
+  - date: 2022-04-26
+    url: https://www.crn.com/slide-shows/cloud/the-coolest-data-warehouse-companies-of-the-2022-big-data-100/6
+    body: Yellowbrick named to CRN's Big Data 100 2022 and The Coolest Data Warehouse Companies Of The 2022 Big Data 100.
+    photo: /uploads/newsroom/crn_logo.png
+    description: Yellowbrick named to CRN's Big Data 100 2022 and The Coolest Data Warehouse Companies Of The 2022 Big Data 100.
+  - date: 2022-05-18
+    url: https://www.finextra.com/blogposting/22303/financial-service-institutions-embark-on-cloud-data-makeover-as-legacy-solutions-sunset
+    body: Financial Service Institutions Embark on Cloud Data Makeover as Legacy Solutions Sunset
+    photo: /uploads/newsroom/finextra_logo.png
+    description: Financial Service Institutions Embark on Cloud Data Makeover as Legacy Solutions Sunset
+  - date: 2022-04-07
+    url: https://www.nutanix.com/theforecastbynutanix/technology/think-global-act-local-database-management-comes-to-hybrid-cloud
+    body: Think Global, Act Local Controlling Distributed Cloud Databases
+    photo: /uploads/newsroom/theforecast_logo.svg
+    description: Think Global, Act Local Controlling Distributed Cloud Databases  
+  - date: 2022-04-05
+    url: https://www.youtube.com/watch?v=uHMcVDNkHi4
+    body: Great @Carnegie Mellon University Database Group seminar hosted by our very own CTO, Mark Cusack, that focuses on the  Yellowbrick software stack and our journey into the cloud. 
+    photo: /uploads/newsroom/vaccination.png
+    description: Great @Carnegie Mellon University Database Group seminar hosted by our very own CTO, Mark Cusack, that focuses on the  Yellowbrick software stack and our journey into the cloud. 
+  - date: 2022-03-29
+    url: https://www.rtinsights.com/the-cloud-native-path-to-data-anywhere/
+    body: Byline article placed in RT Insights – authored by our CTO
+    photo: /uploads/newsroom/RTInsightslogo.webp
+    description: Byline article placed in RT Insights – authored by our CTO
+  - date: 2022-03-29
+    url: https://venturebeat.com/2022/03/29/computings-new-logic-the-distributed-data-cloud/
+    body: Byline article placed in VentureBeat – authored by our CTO
+    photo: /uploads/newsroom/vb-logo.svg
+    description: Byline article placed in VentureBeat – authored by our CTO
+  - date: 2022-03-22
+    url: https://mattaslett.ventanaresearch.com/yellowbrick-paves-the-way-to-distributed-cloud?utm_medium=email&_hsmi=207564440&_hsenc=p2ANqtz-9sM11T55b_HGHE-C2r9VrPvv-6VuGu9vG_3GhGP7QdSfEFueTLI8qCaUpR2JSNhvdSrhNBJL9Flgn0oM-39DTpkNsSuA&utm_content=207564440&utm_source=hs_email&utm_adgroup=yellowbrick-news-section
+    body: Yellowbrick Paves the Way to Distributed Cloud
+    photo: /uploads/ventana-research-logo.png
+    description: Yellowbrick Paves the Way to Distributed Cloud
+  - date: 2021-11-11T16:57:27.839Z
+    url: https://solutionsreview.com/data-management/yellowbrick-data-nabs-c1-funding-round-worth-75-million/
+    body: Yellowbrick Data Nabs C1 Funding Round Worth $75 Million
+    photo: /uploads/solutions_review_data_management_header_250.png
+    description: Yellowbrick Data Nabs C1 Funding Round Worth $75 Million
+  - date: 2021-11-10T16:57:26.979Z
+    url: https://www.idgconnect.com/article/3637900/cto-sessions-mark-cusack-yellowbrick-data.html
+    body: "CTO Sessions: Mark Cusack, Yellowbrick Data"
+    photo: /uploads/idg-connect-logo.svg
+    description: "CTO Sessions: Mark Cusack, Yellowbrick Data"
+  - photo: /uploads/protocol-logo.png
+    url: https://www.protocol.com/braintrust/data-lake-warehouse-service-layers?rebelltitem=10#rebelltitem10
+    date: 2021-10-26
+    source: Protocol
+    body: |
+      Data warehouse models show more signs of convergence
+    description: Data warehouse models show more signs of convergence
+  - photo: /uploads/MarketScreener_logo.png
+    url: https://www.marketscreener.com/news/latest/Yellowbrick-Data-Sponsors-2021-Tableau-Conference-Showcases-Fastest-Visual-Analytics-Platform-for-W--36786337/
+    date: 2021-10-26
+    source: MarketScreener
+    body: |
+      Yellowbrick Data Sponsors 2021 Tableau Conference
+    description: Yellowbrick Data Sponsors 2021 Tableau Conference
+  - photo: https://1330878074.rsc.cdn77.org/wp-content/uploads/2021/03/MTS_1-1.png
+    url: https://martechseries.com/analytics/data-management-platforms/yellowbrick-data-sponsors-2021-tableau-conference-showcases-fastest-visual-analytics-platform-for-worlds-largest-data-community/
+    date: 2021-10-21
+    source: MarTechSeries
+    body: >
+      2021 GigaOm Radar Report for Data Warehouses Names Yellowbrick Data an
+      Outperformer
+    description: 2021 GigaOm Radar Report for Data Warehouses Names Yellowbrick Data
+      an Outperformer
+  - photo: /uploads/news-datanami.png
+    url: https://www.datanami.com/this-just-in/yellowbrick-data-sponsors-2021-tableau-conference/
+    date: 2021-10-26
+    source: Datanami
+    body: |
+      Yellowbrick Data Sponsors 2021 Tableau Conference
+    description: Yellowbrick Data Sponsors 2021 Tableau Conference
+  - photo: /uploads/logo_dbta.png
+    url: https://www.datanami.com/this-just-in/2021-gigaom-radar-report-for-data-warehouses-names-yellowbrick-data-an-outperformer/
+    date: 2021-09-08
+    source: DBTA
+    body: |
+      Big Data 50: Companies Driving Innovation in 2021
+    description: "Big Data 50: Companies Driving Innovation in 2021"
+  - photo: https://analyticsweek.com/wp-content/uploads/2021/07/analyticsweek_black_250_50.png
+    url: https://analyticsweek.com/enterprise-analytic-solutions-2021/
+    date: 2021-08-23
+    source: AnalyticsWeek
+    body: >
+      Enterprise Analytic Solutions 2021
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    description: Enterprise Analytic Solutions 2021
+  - photo: /uploads/news-database.svg
+    url: https://www.dbta.com/BigDataQuarterly/Articles/Big-Data-50-Companies-Driving-Innovation-148749.aspx
+    date: 2021-09-08
+    source: DBTA
+    body: |
+      Yellowbrick included in Big Data 50: Companies Driving Innovation
+    description: "Yellowbrick included in Big Data 50: Companies Driving Innovation"
+  - photo: /uploads/news-tsr.png
+    url: https://www.thesoftwarereport.com/the-top-50-saas-ceos-of-2021/
+    date: 2021-08-23
+    source: TSR | The Software Report
+    body: |
+      Neil Carson named in the top 50 SaaS CEOs of 2021
+    description: Neil Carson named in the top 50 SaaS CEOs of 2021
+  - photo: /uploads/news-zdnet.png
+    url: https://www.zdnet.com/article/yellowbrick-shows-that-its-data-warehouse-is-not-smoke-and-mirrors/
+    date: 2021-04-29
+    source: ZDNet
+    body: |
+      Yellowbrick shows that its data warehouse is not smoke and mirrors
+    description: Yellowbrick shows that its data warehouse is not smoke and mirrors
+  - photo: /uploads/news-crn.jpg
+    url: https://www.crn.com/slide-shows/cloud/the-coolest-big-data-systems-and-cloud-platform-companies-of-the-2021-big-data-100/16?itc=refresh
+    date: 2021-04-26
+    source: CRN
+    body: |
+      Yellowbrick included in CRN’s coolest big data systems
+    description: Yellowbrick included in CRN’s coolest big data systems
+  - photo: /uploads/techblogwriter-logo.png
+    url: https://techblogwriter.co.uk/yellowbrick-data/
+    date: 2021-04-17
+    source: Techblogwriter
+    body: |
+      Ep 1555: The Data Warehouse for Distributed Clouds
+    description: "Ep 1555: The Data Warehouse for Distributed Clouds"
+  - photo: /uploads/news-vb.jpg
+    url: https://venturebeat.com/2021/04/14/paving-the-yellowbrick-road-to-closer-integration-with-cloud-data-stores/
+    date: 2021-04-14
+    source: VentureBeat
+    body: |
+      Paving the Yellowbrick road to closer integration with cloud data stores
+    description: Paving the Yellowbrick road to closer integration with cloud data stores
+  - photo: /uploads/news-inside-big-data.png
+    url: https://insidebigdata.com/2021/04/13/the-insidebigdata-impact-50-list-for-q2-2021/
+    date: 2021-04-13
+    source: insideBIGDATA
+    body: |
+      Yellowbrick receives Honorable Mention in insideBIGDATA's Impact 50
+    description: Yellowbrick receives Honorable Mention in insideBIGDATA's Impact 50
+  - photo: /uploads/news-tech-target.png
+    url: https://searchdatamanagement.techtarget.com/news/252498981/Yellowbrick-Manager-embraces-Kubernetes-for-data-warehouse
+    date: 2021-04-07
+    source: TechTarget
+    body: |
+      Yellowbrick Manager embraces Kubernetes for data warehouse
+    description: Yellowbrick Manager embraces Kubernetes for data warehouse
+  - photo: /uploads/news-siliconangle.png
+    url: https://siliconangle.com/2021/04/06/yellowbrick-ventures-cloud-kubernetes-support-distributed-data-warehouse-manager/
+    date: 2021-04-06
+    source: silicon Angle
+    body: >
+      Yellowbrick ventures into the cloud with Kubernetes support, distributed
+      data warehouse manager
+    description: Yellowbrick ventures into the cloud with Kubernetes support,
+      distributed data warehouse manager
+  - photo: /uploads/auditmacs-logo.png
+    url: https://auditmacs.com/tech-talk/mark-cusack-from-yellowbrick-data/
+    date: 2021-04
+    source: Auditmacs.com
+    body: |
+      “Tech Talk USA” with Mark Cusack from Yellowbrick Data
+    description: “Tech Talk USA” with Mark Cusack from Yellowbrick Data
+  - photo: /uploads/martechseries-logo.png
+    url: https://martechseries.com/mobile/pandemic-era-consumers-love-apps-but-have-security-concerns/
+    date: 2021-02-15
+    source: Martech Series
+    body: |
+      Pandemic-Era Consumers Love Apps But Have Security Concerns
+    description: Pandemic-Era Consumers Love Apps But Have Security Concerns
+  - photo: /uploads/news-constellation-research.png
+    url: https://www.constellationr.com/blog-news/research-report-inside-constellations-2020-enterprise-awards
+    date: 2020-12-23
+    source: Constellation Research
+    body: >
+      The 2020 Awards Demonstrate The Power Of Humanity Amidst A Global Pandemic
+      And Mass Digitization
+    description: The 2020 Awards Demonstrate The Power Of Humanity Amidst A Global
+      Pandemic And Mass Digitization
+  - photo: /uploads/news-esg.png
+    url: https://www.esg-global.com/blog/get-ready-for-the-hybrid-cloud-data-warehousing-surge
+    date: 2020-12-14
+    source: ESG
+    body: |
+      Get Ready for the Hybrid Cloud Data Warehousing Surge
+    description: Get Ready for the Hybrid Cloud Data Warehousing Surge
+  - photo: /uploads/news-tech-target.png
+    url: https://searchdatamanagement.techtarget.com/news/252492469/Yellowbrick-data-warehouse-update-boosts-workload-management
+    date: 2020-11-20
+    source: TechTarget
+    body: |
+      Yellowbrick data warehouse update boosts workload management
+    description: Yellowbrick data warehouse update boosts workload management
+  - photo: /uploads/news-forbes.png
+    url: https://www.forbes.com/sites/forbestechcouncil/2020/11/19/building-a-real-time-answer-system-five-imperatives-for-your-business/?sh=7d26657d6af8
+    date: 2020-11-19
+    source: Forbes
+    body: |
+      Building A Real-Time Answer System: Five Imperatives For Your Business
+    description: "Building A Real-Time Answer System: Five Imperatives For Your Business"
+  - photo: /uploads/news-database.svg
+    url: https://www.dbta.com/Editorial/News-Flashes/Yellowbrick-Data-Strengthens-its-Data-Warehouse-with-New-Features-143907.aspx
+    date: 2020-11-16
+    source: DBTA
+    body: |
+      Yellowbrick Data Strengthens its Data Warehouse with New Features
+    description: Yellowbrick Data Strengthens its Data Warehouse with New Features
+  - photo: /uploads/news-siliconangle.png
+    url: https://siliconangle.com/2020/11/16/yellowbrick-data-makes-hybrid-cloud-data-warehouse-accessible/
+    date: 2020-11-16
+    source: Silicon Angle
+    body: |
+      Yellowbrick Data makes its hybrid cloud data warehouse more accessible
+    description: Yellowbrick Data makes its hybrid cloud data warehouse more accessible
+  - photo: /uploads/news-datanami.png
+    url: https://www.datanami.com/this-just-in/enterprise-strategy-group-finds-massive-cost-and-roi-benefits-from-yellowbrick-data-warehouse/
+    date: 2020-10-21
+    source: Datanami
+    body: >
+      Enterprise Strategy Group Finds Massive Cost and ROI Benefits from
+      Yellowbrick Data Warehouse
+    description: Enterprise Strategy Group Finds Massive Cost and ROI Benefits from
+      Yellowbrick Data Warehouse
+  - photo: /uploads/news-inside-big-data.png
+    url: https://insidebigdata.com/2020/10/04/video-highlight-a-vision-of-analytics-challenge-the-data-warehouse-status-quo/
+    date: 2020-10-04
+    source: insideBIGDATA
+    body: |
+      A Vision of Analytics — Challenge the Data Warehouse Status Quo
+    description: A Vision of Analytics — Challenge the Data Warehouse Status Quo
+  - photo: /uploads/news-aithority.png
+    url: https://aithority.com/data-center-and-co-location/data-gravity-identified-as-key-megatrend-impacting-enterprise-growth/
+    date: 2020-09-28
+    source: AiThority
+    body: |
+      Data Gravity Identified as Key Megatrend Impacting Enterprise Growth
+    description: Data Gravity Identified as Key Megatrend Impacting Enterprise Growth
+  - photo: /uploads/news-forbes.png
+    url: https://www.forbes.com/sites/forbestechcouncil/2020/08/13/cloud-migration-lessons-from-the-pandemic-business-continuity/?sh=6034cd7b3a45
+    date: 2020-08-13
+    source: Forbes
+    body: |
+      Cloud Migration Lessons From The Pandemic: Business Continuity
+    description: "Cloud Migration Lessons From The Pandemic: Business Continuity"
+  - photo: /uploads/news-register.png
+    url: https://www.theregister.com/2020/08/06/yellowbrick_toutes_realtime_analytics_and/
+    date: 2020-08-06
+    source: The Register
+    body: >
+      Data warehouse firm hopes more will follow Yellowbrick road for real-time
+      analytics, speedy cloud data transfer
+    description: Data warehouse firm hopes more will follow Yellowbrick road for
+      real-time analytics, speedy cloud data transfer
+  - photo: /uploads/news-database.svg
+    url: https://www.dbta.com/Editorial/Trends-and-Applications/DBTA-100-2020-The-Companies-That-Matter-Most-in-Data-141182.aspx
+    date: 2020-06-10
+    source: DBTA
+    body: |
+      DBTA 100 2020: The Companies That Matter Most in Data
+    description: "DBTA 100 2020: The Companies That Matter Most in Data"
+  - photo: /uploads/news-medium.jpg
+    url: https://medium.com/dfj-growth/neil-carson-yellowbrick-founder-story-dc070f64669b
+    date: 2020-06-10
+    source: medium
+    body: |
+      Neil Carson, Yellowbrick — Founder Story
+    description: Neil Carson, Yellowbrick — Founder Story
+  - photo: /uploads/news-digitaljournal.jpg
+    url: http://www.digitaljournal.com/tech-and-science/technology/covid-19-thinking-and-data-storage/article/572502
+    date: 2020-06-04
+    source: digital journal
+    body: |
+      COVID-19 thinking and data storage
+    description: COVID-19 thinking and data storage
+  - photo: /uploads/news-wtap.jpg
+    url: https://mms.tveyes.com/MediaCenterPlayer.aspx?u=aHR0cDovL21lZGlhY2VudGVyLnR2ZXllcy5jb20vZG93bmxvYWRnYXRld2F5LmFzcHg%2FVXNlcklEPTcwNDI5OSZNRElEPTEzMjg3NjQ3Jk1EU2VlZD0xMjkxJlR5cGU9TWVkaWE%3D
+    date: 2020-06-03
+    source: WTAP
+    body: |
+      Yellowbrick the Industry Leader in Data Warehouse for Hybrid Cloud
+    description: Yellowbrick the Industry Leader in Data Warehouse for Hybrid Cloud
+  - photo: /uploads/news-data-tech-today.png
+    url: https://datatechnologytoday.wordpress.com/2020/06/02/impact-of-covid-19-on-tech-and-it/
+    date: 2020-06-02
+    source: data and technology today
+    body: |
+      Impact of COVID-19 on Tech and IT
+    description: Impact of COVID-19 on Tech and IT
+  - photo: /uploads/news-siliconangle.png
+    url: https://siliconangle.com/2020/06/02/surveys-find-covid-19-stressing-pros-also-elevating-importance/
+    date: 2020-06-02
+    source: silicon angle
+    body: >
+      Surveys find COVID-19 is stressing IT pros but also elevating their
+      importance
+    description: Surveys find COVID-19 is stressing IT pros but also elevating their
+      importance
+  - photo: /uploads/news-helpnetsecurity.svg
+    url: https://www.helpnetsecurity.com/2020/06/02/it-budgets-unchanged/
+    date: 2020-06-02
+    source: helpnet security
+    body: |
+      Not all IT budgets are being cut, some are increasing
+    description: Not all IT budgets are being cut, some are increasing
+  - photo: /uploads/news-forbes.png
+    url: https://www.forbes.com/sites/gilpress/2020/06/01/ai-news-index-replacing-workers-or-creating-jobs/?ss=ai#3d07a64e39da
+    date: 2020-06-01
+    source: Forbes
+    body: |
+      AI News Index: Replacing Workers Or Creating Jobs?
+    description: "AI News Index: Replacing Workers Or Creating Jobs?"
+  - photo: /uploads/news-techrepublic.png
+    url: https://www.techrepublic.com/article/96-of-it-pros-say-covid-19-has-changed-the-way-they-think/
+    date: 2020-06-01
+    source: tech republic
+    body: |
+      96% of IT pros say COVID-19 has changed the way they think
+    description: 96% of IT pros say COVID-19 has changed the way they think
+  - photo: /uploads/news-valuewalk.png
+    url: https://www.valuewalk.com/2020/05/hybrid-cloud-covid-19-technology/
+    date: 2020-05-31
+    source: ValueWalk
+    body: |
+      Hybrid Cloud: The Impact of the COVID-19 on Technology
+    description: "Hybrid Cloud: The Impact of the COVID-19 on Technology"
+  - photo: /uploads/news-best-tech.png
+    url: http://thetechtribune.com/best-tech-startups-in-palo-alto/
+    date: 2020-04-28
+    source: tech tribune
+    body: >
+      The Tech Tribune just named us one of the best tech startups in Palo Alto.
+      We're honored!
+    description: The Tech Tribune just named us one of the best tech startups in
+      Palo Alto. We're honored!
+  - photo: /uploads/news-crn.jpg
+    url: https://www.crn.com/slide-shows/cloud/the-coolest-system-and-platform-companies-of-the-2020-big-data-100/16?itc=refresh
+    date: 2020-04-27
+    source: crn
+    body: |
+      The Coolest System And Platform Companies Of The 2020 Big Data 100
+    description: The Coolest System And Platform Companies Of The 2020 Big Data 100
+  - photo: /uploads/news-zdnet.png
+    url: https://www.zdnet.com/article/atscale-databricks-and-others-release-advanced-covid-19-data-resources/
+    date: 2020-04-22
+    source: ZDNet
+    body: |
+      AtScale, Databricks and others release advanced COVID-19 data resources
+    description: AtScale, Databricks and others release advanced COVID-19 data resources
+  - photo: /uploads/news-forbes.png
+    url: https://www.forbes.com/sites/forbestechcouncil/2020/04/15/data-lakes-a-guide-for-executives/#17c811cc5511
+    date: 2020-04-15
+    source: Forbes
+    body: |
+      Data Lakes: A Guide for Executives
+    description: "Data Lakes: A Guide for Executives"
+  - photo: /uploads/news-database.svg
+    url: http://www.dbta.com/Editorial/News-Flashes/Yellowbrick-Data-Collaborates-with-Digital-Outcomes-Now-on-IoT-Data-140005.aspx
+    date: 2020-03-27
+    source: DBTA
+    body: |
+      Yellowbrick Data Collaborates with Digital Outcomes Now on IoT Data
+    description: Yellowbrick Data Collaborates with Digital Outcomes Now on IoT Data
+  - photo: /uploads/news-datanami.png
+    url: https://www.datanami.com/2020/03/20/telecom-enlists-data-warehouses-for-5g/
+    date: 2020-03-20
+    source: Datanami
+    body: |
+      Telecom Enlists Data Warehouses for 5G
+    description: Telecom Enlists Data Warehouses for 5G
+  - photo: /uploads/news-blocksandfiles.jpg
+    url: https://blocksandfiles.com/2020/03/20/enterprise-storage-covid-19-rackspace-aws-nvidia/
+    date: 2020-03-20
+    source: blocks and files
+    body: >
+      Your occasional storage digest, featuring Rackspace, AWS, Nvidia Covid-19
+      initiatives and more
+    description: Your occasional storage digest, featuring Rackspace, AWS, Nvidia
+      Covid-19 initiatives and more
+  - photo: /uploads/news-datanami.png
+    url: https://www.datanami.com/this-just-in/yellowbrick-accelerates-its-market-momentum/
+    date: 2020-02-27
+    source: Datanami
+    body: |
+      Yellowbrick Accelerates Its Market Momentum
+    description: Yellowbrick Accelerates Its Market Momentum
+  - photo: /uploads/news-businesswire.jpg
+    url: https://www.businesswire.com/news/home/20200227005313/en/Yellowbrick-Accelerates-Market-Momentum
+    date: 2020-02-27
+    source: business wire
+    body: |
+      Yellowbrick Accelerates Market Momentum
+    description: Yellowbrick Accelerates Market Momentum
+  - photo: /uploads/news-bizjournals.jpg
+    url: https://www.bizjournals.com/sanfrancisco/news/2020/02/27/new-peninsula-hq-may-be-in-the-cards-for-fast.html
+    date: 2020-02-27
+    source: biz journals
+    body: |
+      New Peninsula HQ may be in the cards for fast-growing cloud company
+    description: New Peninsula HQ may be in the cards for fast-growing cloud company
+  - photo: /uploads/news-truthinit.jpg
+    url: https://www.truthinit.com/index.php/video/2280/yellowbrick-data-what%E2%80%99s-new-in-the-data-warehouse-world/
+    date: 2019-11-22
+    source: truth in IT
+    body: |
+      Yellowbrick Data: What’s New in the Data Warehouse World?
+    description: "Yellowbrick Data: What’s New in the Data Warehouse World?"
+  - photo: /uploads/news-eweek.jpg
+    url: https://www.eweek.com/storage/yellowbrick-data-enters-cloud-data-warehouse-wars
+    date: 2019-10-11
+    source: eWeek
+    body: |
+      Yellowbrick Data Enters Cloud Data Warehouse Wars
+    description: Yellowbrick Data Enters Cloud Data Warehouse Wars
+  - photo: /uploads/news-blocksandfiles.jpg
+    url: https://blocksandfiles.com/2019/09/27/yellowbrick-cloud-data-warehouse/
+    date: 2019-09-27
+    source: Blocks and Files
+    body: |
+      Yellowbrick Data does that cloud warehousing thing
+    description: Yellowbrick Data does that cloud warehousing thing
+  - photo: /uploads/news-sdxcentral.png
+    url: https://www.sdxcentral.com/articles/news/follow-the-yellowbrick-data-road-to-cloud-warehousing-and-dr/2019/09/
+    date: 2019-09-25
+    source: SDX Central
+    body: |
+      Follow the Yellowbrick Data Road to Cloud Warehousing and DR
+    description: Follow the Yellowbrick Data Road to Cloud Warehousing and DR
+  - photo: /uploads/news-database.svg
+    url: http://www.dbta.com/Editorial/News-Flashes/Yellowbrick-Data-Introduces-Two-New-Cloud-Products-134269.aspx
+    date: 2019-09-25
+    source: DBTA
+    body: |
+      Yellowbrick Data Introduces Two New Cloud Products
+    description: Yellowbrick Data Introduces Two New Cloud Products
+  - photo: /uploads/news-rtinsights.png
+    url: https://www.rtinsights.com/ai-analytics-hybrid-cloud-dominate-strata-conference/
+    date: 2019-09-27
+    source: RT Insights
+    body: |
+      AI, Analytics, and Hybrid Cloud Dominate Strata Conference
+    description: AI, Analytics, and Hybrid Cloud Dominate Strata Conference
+  - photo: /uploads/news-tc.jpg
+    url: https://techcrunch.com/2019/06/05/yellowbrick-data-raises-81m-series-c-for-hybrid-data-warehouse/
+    date: 2019-06-05
+    source: TechCrunch
+    body: |
+      Yellowbrick Data raises $81M Series C for hybrid data warehouse
+    description: Yellowbrick Data raises $81M Series C for hybrid data warehouse
+  - photo: /uploads/news-vb.jpg
+    url: https://venturebeat.com/2019/06/05/data-warehouse-startup-yellowbrick-raises-81-million/
+    date: 2019-06-05
+    source: Venture Beat
+    body: |
+      Data warehouse startup Yellowbrick raises $81 million
+    description: Data warehouse startup Yellowbrick raises $81 million
+  - photo: /uploads/news-businessinsider.jpg
+    url: https://www.businessinsider.com/yellowbrick-data-coo-interview-dfj-growth-2019-6
+    date: 2019-06-05
+    source: Business Insider
+    body: >
+      Data warehousing startup Yellowbrick Data closes $81 million to take on
+      Amazon, Oracle and Snowflake
+    description: Data warehousing startup Yellowbrick Data closes $81 million to
+      take on Amazon, Oracle and Snowflake
+  - photo: /uploads/news-blocksandfiles.jpg
+    url: https://blocksandfiles.com/2019/06/05/yellowbrick-data-81m-c-funding-round/
+    date: 2019-06-05
+    source: Blocks and Files
+    body: |
+      Eighty one million dollars follows the Yellowbrick Data road
+    description: Eighty one million dollars follows the Yellowbrick Data road
+  - photo: /uploads/news-bmw.jpg
+    url: https://www.press.bmwgroup.com/usa/article/detail/T0296723EN_US/
+    date: 2019-06-05
+    source: BMW Group
+    body: |
+      BMW i Ventures Makes Investment in Yellowbrick Data, Inc.
+    description: BMW i Ventures Makes Investment in Yellowbrick Data, Inc.
+  - photo: /uploads/news-ivp.jpg
+    url: https://www.ivp.com/news/blog/yellowbrick-the-ultimate-data-warehouse/
+    date: 2019-06-05
+    source: IVP
+    body: |
+      Yellowbrick: The Ultimate Data Warehouse
+    description: "Yellowbrick: The Ultimate Data Warehouse"
+  - photo: /uploads/news-siliconangle.png
+    url: https://siliconangle.com/2019/06/05/yellowbrick-raises-81m-hyperconverged-data-warehouse/
+    date: 2019-06-05
+    source: Silicon Angle
+    body: |
+      Yellowbrick raises $81M for its hyperconverged data warehouse
+    description: Yellowbrick raises $81M for its hyperconverged data warehouse
+  - photo: /uploads/news-businesswire.jpg
+    url: https://www.businesswire.com/news/home/20190605005203/en/Yellowbrick-Data-Raises-81-Million-Series-Funding
+    date: 2019-06-05
+    source: Business Wire
+    body: >
+      Yellowbrick Data Raises $81 Million in Series C Funding to Meet Demand for
+      the Ultimate Data Warehouse
+    description: Yellowbrick Data Raises $81 Million in Series C Funding to Meet
+      Demand for the Ultimate Data Warehouse
+  - photo: /uploads/news-eweek.jpg
+    url: https://www.eweek.com/big-data-and-analytics/why-telecoms-are-at-leading-edge-of-analytics-innovation
+    date: 2019-04-26
+    source: eWeek
+    body: |
+      Why Telecoms Are at Leading Edge of Analytics Innovation
+    description: Why Telecoms Are at Leading Edge of Analytics Innovation
+  - photo: /uploads/news-businessinsiderprime.jpg
+    url: https://www.businessinsider.com/8-cloud-computing-startups-to-bet-your-career-on-in-2019-2019-1#zapier-getting-all-your-web-apps-to-work-together-1
+    date: 2019-01-20
+    source: Business Insider
+    body: |
+      8 cloud computing startups to bet your career on in 2019
+    description: 8 cloud computing startups to bet your career on in 2019
+  - photo: /uploads/news-businessinsider.jpg
+    url: https://www.businessinsider.com/44-enterprise-startups-to-bet-your-career-on-in-2019-2018-12#yellowbrick-data-data-warehousing-backed-by-big-names-10
+    date: 2019-01-05
+    source: Business Insider
+    body: |
+      44 enterprise startups to bet your career on in 2019
+    description: 44 enterprise startups to bet your career on in 2019
+  - photo: /uploads/news-vb.jpg
+    url: https://venturebeat.com/2018/10/24/data-warehouse-startup-yellowbrick-data-raises-48-million/
+    date: 2018-10-24
+    source: Venture Beat
+    body: |
+      Data warehouse startup Yellowbrick Data raises $48 million
+    description: Data warehouse startup Yellowbrick Data raises $48 million
+  - photo: /uploads/news-siliconangle.png
+    url: https://siliconangle.com/2018/10/23/flash-data-warehouse-startup-yellowbrick-data-raises-48m/
+    date: 2018-10-24
+    source: Silicon Angle
+    body: |
+      All-flash data warehouse startup Yellowbrick Data raises $48M
+    description: All-flash data warehouse startup Yellowbrick Data raises $48M
+  - photo: /uploads/news-datawarehouse.jpg
+    url: https://www.rtinsights.com/yellowbrick-data-unveils-integrated-data-warehouse-platform/
+    date: 2018-08-14
+    source: RT Insights
+    body: |
+      Yellowbrick Data Unveils Integrated Data Warehouse Platform
+    description: Yellowbrick Data Unveils Integrated Data Warehouse Platform
+  - photo: /uploads/news-storagenewsletter.jpg
+    url: https://www.storagenewsletter.com/2018/08/02/yellowbrick-got-44-million-in-series-a-funding/
+    date: 2018-08-06
+    source: Storage Newsletter
+    body: |
+      Yellowbrick Got 44 Million in Series A Funding
+    description: Yellowbrick Got 44 Million in Series A Funding
+  - photo: /uploads/news-siliconvalleydaily.jpg
+    url: http://svdaily.com/yellowbrick-emerges-from-stealth-with-44-million/
+    date: 2018-08-06
+    source: Silicon Valley Daily
+    body: |
+      Yellowbrick Emerges From Stealth With $44 Million
+    description: Yellowbrick Emerges From Stealth With $44 Million
+  - photo: /uploads/news-enterprisetech.jpg
+    url: https://www.enterprisetech.com/2018/08/03/yellowbrick-data-emerges-from-stealth-to-unveil-yellowbrick-data-warehouse/
+    date: 2018-08-06
+    source: Enterprise Tech
+    body: |
+      Yellowbrick Data Emerges from Stealth to Unveil Yellowbrick Data Warehouse
+    description: Yellowbrick Data Emerges from Stealth to Unveil Yellowbrick Data Warehouse
+  - photo: /uploads/news-axios.jpg
+    url: https://www.axios.com/newsletters/axios-pro-rata-0aadf6b5-9e07-4041-93e0-4ef3c15733e3.html
+    date: 2018-08-06
+    source: Axios
+    body: >
+      Yellowbrick Data, a Palo Alto-based data warehouse startup, raised $44
+      million in Series A funding
+    description: Yellowbrick Data, a Palo Alto-based data warehouse startup, raised
+      $44 million in Series A funding
+  - photo: /uploads/news-wsj.jpg
+    url: https://www.wsj.com/articles/yellowbrick-data-secures-44-million-series-a-1533190987
+    date: 2018-08-06
+    source: Wall Street Journal
+    body: |
+      WSJ Pro VC: Yellowbrick Data Secures 44 Million Series A
+    description: "WSJ Pro VC: Yellowbrick Data Secures 44 Million Series A"
+  - photo: /uploads/news-nextplatform.jpg
+    url: https://www.nextplatform.com/2018/08/02/follow-the-yellowbrick-road-to-an-all-flash-data-warehouse/
+    date: 2018-08-02
+    source: Next Platform
+    body: |
+      Follow The Yellowbrick Road To An All-Flash Data Warehouse
+    description: Follow The Yellowbrick Road To An All-Flash Data Warehouse
+  - photo: /uploads/news-crn.jpg
+    url: https://www.crn.com/news/applications-os/300107441/yellowbrick-data-looks-to-shake-up-the-data-warehouse-arena.htm
+    date: 2018-08-01
+    source: CRN
+    body: |
+      Yellowbrick Data Looks To Shake Up The Data Warehouse Arena
+    description: Yellowbrick Data Looks To Shake Up The Data Warehouse Arena
+  - photo: /uploads/news-bizjournals.jpg
+    url: https://www.bizjournals.com/sanjose/news/2018/08/01/yellowbrick-data-funding-stealth-fusion-io-startup.html
+    date: 2018-08-01
+    source: Biz Journals
+    body: >
+      Fusion-io vets raise $44M as their Palo Alto data warehouse startup comes
+      out of stealth
+    description: Fusion-io vets raise $44M as their Palo Alto data warehouse startup
+      comes out of stealth
+  - photo: /uploads/news-register.png
+    url: https://www.theregister.co.uk/2018/07/31/yellowbrick_all_flash_data_warehouse/
+    date: 2018-07-31
+    source: The Register
+    body: |
+      Yellowbrick reckons its all-flash data warehouse array is a wizard idea
+    description: Yellowbrick reckons its all-flash data warehouse array is a wizard idea
+  - photo: /uploads/news-datanami.png
+    url: https://www.datanami.com/2018/07/31/yellowbrick-claims-flash-breakthrough-with-mpp-database/
+    date: 2018-07-31
+    source: Datanami
+    body: |
+      Yellowbrick Claims Flash Breakthrough with MPP Database
+    description: Yellowbrick Claims Flash Breakthrough with MPP Database
+  - photo: /uploads/news-businesswire.jpg
+    url: https://www.press.bmwgroup.com/usa/article/detail/T0296723EN_US/bmw-i-ventures-makes-investment-in-yellowbrick-data-inc
+    date: 2018-07-31
+    source: Business Wire
+    body: >
+      Yellowbrick Data Emerges From Stealth With Production Customers and $44
+      million in Series A Funding to Unveil Yellowbrick Data Warehouse
+    description: Yellowbrick Data Emerges From Stealth With Production Customers and
+      $44 million in Series A Funding to Unveil Yellowbrick Data Warehouse
+  - photo: /uploads/news-siliconangle.png
+    url: https://siliconangle.com/2018/07/31/yellowbrick-data-exits-stealth-44m-flash-data-warehouse/
+    date: 2018-07-31
+    source: Silicon Angle
+    body: |
+      Yellowbrick Data exits stealth with $44M and an all-flash data warehouse
+    description: Yellowbrick Data exits stealth with $44M and an all-flash data warehouse
+  - photo: /uploads/news-database.svg
+    url: http://www.dbta.com/Editorial/News-Flashes/Yellowbrick-Data-Looks-to-Shake-Up-the-Data-Warehousing-Market-126632.aspx
+    date: 2018-07-31
+    source: DBTA
+    body: |
+      Yellowbrick Data Looks to Shake Up the Data Warehousing Market
+    description: Yellowbrick Data Looks to Shake Up the Data Warehousing Market

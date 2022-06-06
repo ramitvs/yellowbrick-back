@@ -1,0 +1,56 @@
+/* purgecss start ignore */
+
+.featured-stats-section {
+	position: relative;
+}
+
+.featured-stats-section
+.featured-stats {
+	margin-top: 0;
+}
+
+.featured-stats {
+	padding: 20px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	flex-direction: column;
+	position: relative;
+}
+
+.featured-stats 
+> .icon-container {
+	max-width: 200px;
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
+.featured-title {
+	font-size: 2.45rem;
+	font-weight: 700;
+}
+
+.featured-stats-section.-dotted-bg::before {
+	content: '';
+	position: absolute;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 21 21'%3E%3Cpath fill='none' d='M0 0h21v21H0z'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' fill='%234b5357' d='M9 9h3v3H9z'/%3E%3C/svg%3E");
+	background-repeat: repeat;
+	background-position: right;
+	background-size: 22px;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	opacity: .3;
+}
+
+.icon-container {
+	> .icon {
+		width: 100%;
+		height: auto;
+	}
+}
+
+/* purgecss end ignore */

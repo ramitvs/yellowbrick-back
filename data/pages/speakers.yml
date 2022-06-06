@@ -1,0 +1,128 @@
+members:
+  - body: >+
+      Previously, Neil served as Executive Vice President and Chief Technology Officer at Fusion-io where he was responsible for company strategy, product definitions, roadmaps, corporate development and strategic partnerships and key customer acquisitions.  
+
+
+      Prior to Fusion-io, Neil was Chief Application Architect at Dell, where he led the platform architecture team across MessageOne, Everdream, Silverback Networks and other acquired development groups. Neil joined Dell through the acquisition of Everdream where he was Chief Architect.  
+
+
+      Neil has also held roles at BMC/Remedy and Liberate Technologies, including Principal Product Architect and Principal Engineer. Neil has served as a technical advisor for startups Oxygen Finance and Datera Inc.  
+
+
+      Neil earned a Bachelor’s degree in Computer Software Engineering from Cranfield University.
+
+    name: Neil Carson
+    photo: /uploads/neil-bw.jpg
+    position: Chief Executive Officer and Co-founder
+
+  - body: >+
+      Faye Henris is Vice President of Business Analytics; a 30-year global thought leader focused on Telecommunications and Technology. A proven and accomplished executive with a passion for developing and leading high performance sales, marketing, product management and delivery teams. An entrepreneur at heart with appreciation of the corporate climate having worked with companies including MCI, Sprint, Verizon, Century Link, Accenture, ENY and Deutsche Börse. Her technical focus is in the design and management of complex technology and service solutions for communications and cloud computing companies.
+
+
+      Faye’s career began with MCI Communications. After MCI, Faye founded her first company, TeleCon, LLC to provide consulting and outsourced solutions for multi-tier communications service providers. Acquisition of the firm was coincident with inflow of venture funding by Columbia Capital and Bessemer Ventures. Faye served as GM and COO of the rebranded company, Vibrant Solutions, which was acquired by TEOCO in 2006.
+
+
+      Faye is an honors graduate of The George Washington University with Bachelors of Science Degrees in Finance and Math.
+
+    name: Faye Henris
+    photo: /uploads/faye-bw.jpg
+    position: Vice President of Business Analytics, TEOCO Corporation
+
+  - body: >+
+      Hailed by CNN as “the infectious disease expert who has been warning us for a decade and a half that the world will face a pandemic,” Dr. Michael Osterholm quickly became the go-to expert on the public health impact of COVID-19. A sharp critic of the complacency that led to the current global pandemic, he points to current shortfalls in our system, individual and public health strategies and an urgent need to mobilize our healthcare system. 
+
+
+      Dr. Osterholm predicted a pandemic like COVID-19 in his bestselling book, Deadliest Enemy: Our War Against Killer Germs, a chillingly prescient and detailed account of the most pressing infectious diseases of our day. In Deadliest Enemy, Dr. Osterholm advocates for a plan to combat “an overwhelming army of deadly, invisible enemies” and lays out a nine-point plan to prevent “the unthinkable from the inevitable.”    
+
+
+      Dr. Osterholm currently serves as Regents Professor, McKnight Presidential Endowed Chair in Public Health, the director of the Center for Infectious Disease Research and Policy (CIDRAP), Distinguished Teaching Professor in the Division of Environmental Health Sciences, School of Public Health, a professor in the Technological Leadership Institute, College of Science and Engineering, and an adjunct professor in the Medical School, all at the University of Minnesota. Between June 2018 to May 2019, he served as a Science Envoy for Health Security on behalf of the US Department of State. In 2008, he was appointed to the World Economic Forum Working Group on Pandemics. In 2005, He was appointed to the newly established National Science Advisor Board of Biosecurity. Between 2001 and 2005, he served as Special Advisor to the Health and Human Services Secretary on issues related to bioterrorism and public health preparedness. Previously, he served for 24 years in various roles at the Minnesota Department of Health, the last 15 as state epidemiologist and chief of the Acute Disease Epidemiology Section. An expert in bioterrorism, Dr. Osterholm provided a pointed review of America’s current state of preparedness for a bioterrorism attack in his New York Times bestselling book, Living Terrors: What America Needs to Know to Survive the Coming Bioterrorist Catastrophe.
+
+
+    name: Dr. Michael Osterholm
+    photo: /uploads/michael-bw.jpg
+    position: Director, Center for Infectious Disease Research and Policy at the University of Minnesota
+
+  - body: >+
+      Jeff Spicer is the Chief Marketing Officer at Yellowbrick. Jeff has more than two decades of experience building strong brands that resonate with businesses and leading marketing teams that drive positive results. He has led enterprise marketing teams at IBM, Oracle, and VMware where he specialized in strengthening company brands, driving growth, and focusing on superior customer experience. He holds degrees from the University of Minnesota and Luther College. 
+
+    name: Jeff Spicer
+    photo: /uploads/jeff-bw.jpg
+    position: Chief Marketing Officer
+
+  - body: >+
+      Matt Aslett is a Research Director with responsibility for 451 Research’s Data, AI and Analytics Channel – including operational and analytic databases, Hadoop, grid/cache, stream processing, data integration, data governance, and data management, as well as data science and analytics, machine learning and AI. Matt's own primary area of focus currently includes distributed data management, data catalogs, business intelligence and analytics, data science management, and enterprise knowledge graphs.
+
+    name: Matt Aslett
+    photo: /uploads/matt-bw.jpg
+    position: Research Director, Data Platforms and Analytics, 451 Research
+
+  - body: >+
+      Ramesh is a Senior Technology Executive with over 20 years of financial services and enterprise data management software industry. With a deep track record of running global COEs for various distributed data platforms for large enterprise multi year programs, Ramesh brings the insights needed for bridging the gap between business requirements and technology implementations. Implementations that cover complex public cloud, multi cloud and hybrid cloud , modern architectures that are driving transformation. He is currently a Chief Cloud Architect in FSI and also heads the Snowflake CoE for FSI Ramesh holds a Master in Economics and Bachelors in Computer Science from BITS Pilani India
+
+    name: Ramesh Indraghanti
+    photo: /uploads/ramesh-bw.jpg
+    position: Sr. Director, Platforms & AI Engineering, Capgemini
+
+  - body: >+
+      Justin Kestelyn is VP Product Marketing for Yellowbrick Data. He has 20 years of experience in the data industry, with previous senior product marketing and developer marketing roles at Google Cloud, Cloudera, and Oracle.
+
+    name: Justin Kestelyn
+    photo: /uploads/justin-bw.jpg
+    position: VP Product Marketing, Yellowbrick
+
+  - body: >+
+      Mitch is currently the Vice President, Enterprise Data Hub at Highmark Health in Pittsburgh where he is responsible for the enterprise’s big data analytics platform and data governance program.  Over the last two decades, he has led a variety of healthcare IT and informatics efforts in support of ambulatory, inpatient, post-acute and payer settings.  His experience includes data and analytic management strategies, data governance programs, clinical informatics initiatives, and healthcare interoperability. Mitch received a B.S. in Computer Information Systems from Robert Morris University and is currently working on an M.S. in Data Science at the University of Wisconsin.  He is the President of the Western PA chapter of HIMSS and a member of the national HIMSS Clinical and Business Intelligence Committee.
+
+    name: Mitch Kwiatkowski
+    photo: /uploads/mitch-bw.jpg
+    position: VP, Enterprise Data Hub, Enterprise Analytics, Highmark Health
+
+  - body: >+
+      Saurabh is the EVP and Chief Product Officer at MicroStrategy. With more than two decades of experience, he previously served as SVP of Product Management where he was responsible for the strategy and definition for the MicroStrategy platform—an analytics portfolio spanning HyperIntelligence, cloud, data discovery, predictive analytics, digital identity, big data, and enterprise BI. Prior to joining MicroStrategy, Saurabh spent more than a decade at SAP and Business Objects working with a number of products, including Crystal Reports, Web Intelligence, Explorer, and the Semantic Layer.
+
+    name: Saurabh Abhyankar
+    photo: /uploads/saurabh-bw.jpg
+    position: EVP and Chief Product Officer, MicroStrategy
+
+  - body: >+
+      A 10-year veteran of ACI Worldwide Inc. (a world leader in Payments Software), Steve Emmerich is a Chief Architect and Technical Fellow at ACI Worldwide Inc. where he is responsible for the team providing Data Solutions and Support for ACI’s payment software products and solutions That team establishes ACI’s data management reference architecture for data-tier performance, scalability, availability, and security; selection and adoption of Data Lake, Big Data, Relational Technology, and Data Replication technologies; creation of data solutions across ACI products and platforms; and provides assistance with adoption of these standards and technologies to adopting Engineering teams and ACI customers. Earlier in his career, Mr. Emmerich focused on early innovations in multi-threaded UNIX development, supercomputer-based parallel processing, founding a company that applied supercomputing and parallel-processing techniques to high-volume data warehousing and real-time decision system construction. His greatest professional interests are the underpinnings of High Availability solutions and applying MPP techniques to data management challenges. Mr. Emmerich holds a Computer Science degree from Yale University.
+
+    name: Steve Emmerich
+    photo: /uploads/steve-bw.jpg
+    position: Chief Architect, ACI Worldwide Inc
+
+  - body: >+
+      Allen Holmes is a multi-dimensional strategic business executive who delivers business outcomes, reverses negative trends and optimizes performance within start-up, merger, turnaround and high-growth environments. Mr. Holmes is currently the VP, Business Development at Yellowbrick Data. He has over 30 years of industry experience in a wide range of markets including cloud, semiconductors, storage, mobile and embedded. Mr. Holmes is an active mentor to current and future high-tech employees.
+
+    name: Allen Holmes
+    photo: /uploads/allen-bw.jpg
+    position: VP Business Development, Yellowbrick
+
+  - body: >+
+      Chris Matyszczyk is the President of creative consultancy Howard Raucous LLC. For the last 13 years, he has also written the Technically Incorrect column first for CNET and now for ZDNet. 
+
+
+      He also wrote the Absurdly Driven column on Inc.com.  
+
+
+      In an advertising career spanning London, Singapore, Warsaw, New York and San Francisco, Chris helped build brands and businesses and won some of the most prestigious creative awards in the world, including a Gold Clio.  
+
+
+      In 2013, he was named by Mediapost as the Most Influential Person On Madison Avenue.  
+
+
+      His campaign against domestic abuse in Poland was a national phenomenon and gained worldwide attention, being featured on the front-page of the New York Times.  
+
+
+      He’s also a Wine Ambassador for Honig Winery in Napa. Because, well, why wouldn’t you?
+
+    name: Chris Matyszczyk
+    photo: /uploads/chris-bw.jpg
+    position: President, Howard Raucous LLC
+
+  - body: >+
+      Ravi Shankar is responsible for Denodo’s global marketing efforts, including product marketing, demand generation, communications, and partner marketing. Ravi brings to his role more than 25 years of proven marketing leadership from enterprise software leaders such as Oracle and Informatica. Ravi holds an MBA from the Haas School of Business at the University of California, Berkeley.
+
+    name: Ravi Shankar
+    photo: /uploads/ravi-bw.jpg
+    position: Senior VP & Chief Marketing Officer, Denodo

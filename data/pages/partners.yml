@@ -1,0 +1,422 @@
+techPartners:
+  - body: >
+      Alation’s data catalog dramatically improves the productivity of analysts, increases the accuracy of analytics, and drives confident data-driven decision making. Alation’s data catalog empowers everyone in your organization to find, understand, and govern data.
+    name: Alation
+    photo: /uploads/partners-alation.svg
+    url: "https://www.alation.com/"
+    categories:
+      - technology
+  - body: >
+      Attunity is a leading provider of data integration and Big Data management software solutions that enable availability, delivery and management of data across heterogeneous enterprise platforms, organizations and the cloud.
+    name: Attunity
+    photo: /uploads/partners-attunity.svg
+    url: "http://www.attunity.com/"
+    categories:
+      - technology
+  - body: >
+      CData Software is a leading provider of data access and connectivity solutions. We specialize in the development of Drivers and data access technologies for real-time access to online or on-premise applications, databases, and Web APIs.
+    name: CData
+    photo: /uploads/cdata_logo.svg
+    url: "https://www.cdata.com/"
+    categories:
+      - technology
+  - body: >
+      Celebrating 25 years in business, Coffing Data Warehousing’s Nexus Software provides desktop and server software for on-premises and cloud environments that allow enterprises to query, migrate, and federate data across all systems.  Access any data, at any time, anywhere with Nexus.
+    name: Coffing Data Warehousing
+    photo: /uploads/partners-coffing.svg
+    url: "https://coffingdw.com"
+    categories:
+      - technology
+  - body: >
+      Collibra empowers enterprises to find meaning in their data and improve the quality of business decisions. On one shared platform, both IT and business users can collaborate to create a data-driven organization using the suite of Collibra products.
+    name: Collibra
+    photo: /uploads/partners-collibra.svg
+    url: "https://www.collibra.com"
+    categories:
+      - technology
+  - body: >
+      CompilerWorks was founded with the idea of applying compilers and optimizers to new application areas, our task is one of the most challenging and most fundamental fields in computing: language design and implementation. Accuracy and attention to detail are critical.
+    name: CompilerWorks
+    photo: /uploads/partners-compilerworks.svg
+    url: "http://www.compilerworks.com/"
+    categories:
+      - technology
+  - body: >-
+      Founded by the team that built Apache Kafka®, Confluent builds a streaming platform that enables companies to easily access data as real-time streams.
+    name: Confluent
+    photo: /uploads/partners-confluent.svg
+    url: "https://www.confluent.io/"
+    categories:
+      - technology
+  - body: >
+      Data Virtuality is a data integration and management platform for instant data access, easy data centralization, and data governance. It empowers companies to get fast and direct insights from scattered data. Data from multiple data sources can be integrated and managed in one interface. This not only simplifies data management but also drastically reduces data integration efforts - by up to 80%
+    name: Data Virtuality
+    photo: /uploads/dv-logo-white.png
+    url: "https://datavirtuality.com/"
+    categories:
+      - technology
+  - body: >
+      DBeaver is a workbench for building SQL queries, editing and transferring data, viewing trees of objects, completing database administration tasks, monitoring database connection sessions, and a lot more.
+    name: DBeaver
+    photo: /uploads/partners-dbeaver.svg
+    url: "https://dbeaver.io/"
+    categories:
+      - technology
+  - body: >
+      DbVisualizer is the universal database tool for developers, DBAs and analysts. It is the ultimate solution since the same tool can be used on all major operating systems accessing a wide range of databases.
+    name: DBVisualizer
+    photo: /uploads/partners-dbvis.svg
+    url: "https://www.dbvis.com/"
+    categories:
+      - technology
+  - body: >-
+      Denodo is the leader in data virtualization providing agile, high performance data integration and data abstraction across the broadest range of enterprise, cloud, big data and unstructured data sources, and real-time data services at half the cost of traditional approaches.
+    name: Denodo
+    photo: /uploads/partners-denodo.svg
+    url: "https://www.denodo.com/"
+    categories:
+      - technology
+  - body: >-
+      Domo is the Business Cloud, empowering organizations of all sizes with BI leverage at cloud scale, in record time. With Domo, BI-critical processes that took weeks, months or more can now be done on-the-fly, in minutes or seconds, at unbelievable scale.
+    name: Domo
+    photo: /uploads/partners-domo.svg
+    url: "https://www.domo.com/"
+    categories:
+      - technology
+  - body: >-
+      Equalum’s continuous data integration platform is the only solution that natively supports all data integration use cases under one, unified platform with zero coding.
+    name: Equalum
+    photo: /uploads/partners_equalum.png
+    url: "https://www.equalum.io/"
+    categories:
+      - technology
+  - body: >
+      HVR provides a real-time cloud data replication solution that supports enterprise modernization efforts. The HVR platform is a reliable, secure, and scalable way to quickly and efficiently integrate large data volumes in complex environments, enabling real-time data updates, access, and analysis.
+    name: HVR
+    photo: /uploads/partners-hvr.png
+    url: "https://www.hvr-software.com/"
+    categories:
+      - technology
+  - body: >-
+      IBM, is a global technology company that provides hardware, software, cloud-based services and cognitive computing.
+    name: IBM
+    photo: /uploads/partners-ibm.svg
+    url: "https://www.ibm.com/"
+    categories:
+      - technology
+  - body: >
+      DataOps Platform for Testing and Monitoring. Identify data issues in your Data warehouse, Big Data and Data Migration Projects.
+    name: iCEDQ
+    photo: /uploads/partners-icedq.svg
+    url: "https://www.icedq.com/"
+    categories:
+      - technology
+  - body: >
+      Immuta is the modern data access and control solution for cloud data ecosystems, automating data access and privacy controls to accelerate self-service data delivery, simplify administration, reduce risk, and safely unlock more data use in the cloud.
+    name: Immuta
+    photo: /uploads/partners-immuta.png
+    url: "https://www.immuta.com/"
+    categories:
+      - technology
+  - body: >
+      Informatica is the only proven Enterprise Cloud Data Management leader that accelerates data-driven digital transformation.
+    name: Informatica
+    photo: /uploads/partners-informatica.svg
+    url: "https://www.informatica.com"
+    categories:
+      - technology
+  - body: >
+      Intellisoft is a recognized leader in a wide range of Information Systems technologies. Intellisoft provides services that are highly regarded throughout the industry.
+    name: Intellisoft
+    photo: /uploads/partners-intellisoft.svg
+    url: "https://www.intellisofttech.com/"
+    categories:
+      - technology
+  - body: >
+      Maestro Analytics’ ELTMaestro is a visual front end that makes Yellowbrick look like an ETL tool. ELTMaestro provides the data loading, transformation features, and performance of high-end ETL tools at a tiny fraction of their cost.
+    name: Maestro Analytics
+    photo: /uploads/partners-maestro.svg
+    url: "https://maestro-analytics.com/"
+    categories:
+      - technology
+  - body: >
+      MANTA shows how data flows through systems, while delivering actionable data to boost governance efforts, accelerate development, shorten time-to-market, speed up the modernization process, ensure data quality, and enforce data security.
+    name: Manta
+    photo: /uploads/partners-manta.svg
+    url: "https://www.getmanta.com/"
+    categories:
+      - technology
+  - body: >
+      MicroStrategy (Nasdaq: MSTR) is a worldwide leader in enterprise analytics and mobility software.
+    name: MicroStrategy
+    photo: /uploads/partners-microstrategy.svg
+    url: "https://www.microstrategy.com/us"
+    categories:
+      - technology
+  - body: >
+      Nexla is a data operations platform that helps teams create scalable, repeatable, and predictable data flows. Users can automate and monitor their incoming and outgoing data flows. The end result is predictable and reliable data access inside and outside the organization.
+    name: Nexla
+    photo: /uploads/partners-nexla.svg
+    url: "https://www.nexla.com/"
+    categories:
+      - technology
+  - body: >-
+      Oracle GoldenGate enables high availability solutions, real-time data integration, transactional change data capture, data replication, transformations, and verification between operational and analytical enterprise systems.
+    name: Oracle
+    photo: /uploads/partners-oracle.svg
+    url: "https://www.oracle.com/index.html"
+    categories:
+      - technology
+  - body: >-
+      Microsoft’s Power BI is a suite of business analytics tools to analyze data and share insights. Monitor your business and get answers quickly with rich dashboards available on every device.
+    name: Power BI
+    photo: /uploads/partners-powerbi.svg
+    url: "https://powerbi.microsoft.com/en-us/"
+    categories:
+      - technology
+  - body: >-
+      Protegrity works hand-in-hand with its customers to deliver data-first security solutions optimized for business processing and analytics, delivering solutions that work for modern enterprises that need to be secure without being slowed.
+    name: Protegrity
+    photo: /uploads/partners-protegrity.png
+    url: "https://www.protegrity.com"
+    categories:
+      - technology
+  - body: >
+      SAS is the leader in analytics. Through innovative software and services, SAS empowers and inspires customers around the world to transform data into intelligence.
+    name: SAS
+    photo: /uploads/partners-sas.svg
+    url: "https://www.sas.com/"
+    categories:
+      - technology
+  - body: >
+      Sisense empowers builders to deliver insights on complex data, so users can achieve better business outcomes. Delivered on our pioneering end-to-end cloud-native analytics platform and powered by AI, Sisense offers unparalleled agility with three distinct packages tailored to the unique challenges of the teams chartered with driving the third wave of digital transformation.
+    name: Sisense
+    photo: /uploads/partners-sisense.svg
+    url: "https://www.sisense.com"
+    categories:
+      - technology
+  - body: >
+      Sonra is the leader in Data Warehouse Automation for XML and JSON. Our product Flexter fully automates the conversion of XML or JSON to a database, text, or big data formats (Parquet, ORC, Avro, Spark, Hadoop).
+    name: Sonra
+    photo: /uploads/partners-sonra.svg
+    url: "https://sonra.io/"
+    categories:
+      - technology
+  - body: >
+      Sotero delivers 360º data security. KeepEncrypt™ protects data at-rest and in-use, providing instant detection and active threat prevention, so you can innovate with confidence.
+    name: Sotero
+    photo: /uploads/partners-sotero.svg
+    url: "https://soterosoft.com/"
+    categories:
+      - technology
+  - body: >
+      Continuous real-time data movement across on-premises and Cloud environments via streaming data integration – including change data capture – and stream processing.
+    name: Striim
+    photo: /uploads/partners-striim.svg
+    url: "https://www.striim.com/"
+    categories:
+      - technology
+  - body: >
+      Synametrics creates and hones innovative products that help our customers get more from their computer applications, databases and infrastructure.
+    name: Synametrics
+    photo: /uploads/partners-synametrics.svg
+    url: "https://web.synametrics.com/"
+    categories:
+      - technology
+  - body: >
+      Syncsort is the global leader in Big Iron to Big Data software. We organize data everywhere to keep the world working – the same data that powers machine learning, AI and predictive analytics.
+    name: Syncsort
+    photo: /uploads/partners-syncsort.svg
+    url: "http://www.syncsort.com/"
+    categories:
+      - technology
+  - body: >
+      Tableau (NYSE: DATA) helps people see and understand data and explore with
+      limitless visual analytics.
+    name: Tableau
+    photo: /uploads/partners-tableau.svg
+    url: "/company/partners/tableau/"
+    categories:
+      - technology
+  - body: >-
+      Talend is a next generation leader in big data and cloud integration solutions that helps companies become data driven by making data more accessible, improving its quality and quickly moving data where it’s needed for real-time decision making.
+    name: Talend
+    photo: /uploads/partners-talend.svg
+    url: "https://www.talend.com/"
+    categories:
+      - technology
+  - body: >-
+      Tonic solves the complex tension between data governance and convenient data access by allowing anyone to create safe, secure versions of your most important datasets. By combining PII detection, statistical data modeling, and self-service transformations, Tonic allows everyone from security professionals to software engineers to create compliant, portable datasets.
+    name: Tonic
+    photo: /uploads/partners-tonic.svg
+    url: "https://www.tonic.ai"
+    categories:
+      - technology
+
+
+solutionPartners:
+  - body: >-
+      Emtec is an IT consultancy dedicated to helping our clients drive transformation and growth by employing the latest technologies and processes to empower their employees, accelerate innovation and deliver amazing client experiences.
+    name: Emtec
+    photo: /uploads/partners-emtec.svg
+    url: "https://www.emtecinc.com/"
+    categories:
+      - solution
+  - body: >-
+      g2o specializes in crafting, creating and measuring distinctive customer experiences that drive growth for companies who aspire to greatness. From vision to execution, their team blends human-centered insight and design with data and technology to build a stronger bond between your brand and your customers.
+    name: g2o
+    photo: /uploads/partners-g2o.png
+    url: "https://www.g2o.com/"
+    categories:
+      - solution
+  - body: >-
+      Next Pathway is the Automated Cloud Migration company. Powered by the SHIFT™ Migration Suite, we automate the end-to-end challenges our customers experience when migrating applications to the cloud.
+    name: Next Pathway
+    photo: /uploads/partners-nextpathway.svg
+    url: "https://www.nextpathway.com"
+    categories:
+      - solution
+  - body: >
+      Saarthee provides analytics that helps companies leverage data driven insights in making better business decisions. Saarthee’s analytics capabilities help companies enhance profitability by powering their sales and marketing efforts with scientific decision making. Its expanse in and around Analytics provides a unique 360-degree view to derive insights that matter.
+    name: Saarthee
+    photo: /uploads/partners-saarthe.png
+    url: "https://www.saarthee.com/"
+    categories:
+      - solution
+  - body: >
+      Saxon is a data and analytics company with end-to-end data engineering and analytics services leveraging next-gen technologies from leading market vendors. Our core differentiators are robust frameworks, strong domain expertise, DataOps, and accelerators that provide quick time to value and maximize ROI.
+    name: Saxon
+    photo: /uploads/partners-saxon.png
+    url: "https://www.saxon.ai/"
+    categories:
+      - solution
+  - body: >
+      Systech provides end-to-end Digital Strategy, Data Engineering, and Advanced Analytics services to build data-driven capabilities into clients' core business operations to drive continuous growth.
+    name: Systech
+    photo: /uploads/partners-systech.svg
+    url: "http://www.systechusa.com/"
+    categories:
+      - solution
+  - body: >
+      Virtusa provides digital business strategy, digital engineering, and IT services & solutions that help clients change, disrupt, and unlock new value through innovation engineering. Serving the Banking, Financial Services, Insurance, Healthcare, Communications, Media, Entertainment, Travel, Manufacturing, and Technology industries.
+    name: Virtusa
+    photo: /uploads/partners-virtusa.svg
+    url: "https://www.virtusa.com/"
+    categories:
+      - solution
+
+
+
+resellerPartners:
+  - body: >
+      AppTec is a specialized end-to-end Big Data and Analytics system integrator company, with focus in disruptive appliances for handling big data volumes and develop of analytics models to solve business problems.
+    name: Appliance Technologies
+    photo: /uploads/partners-apptec.svg
+    url: "https://www.appliance.moneta.com.mx/"
+    categories:
+      - reseller
+  - body: >
+      Comport specializes in as a service, cloud and data center solutions for commercial and healthcare organizations. We work with our customers to understand their business and how technology will drive key initiatives. Our top tier partnerships and continual training of in house experts ensures you have access to best-in-class technology. Contact us today!
+    name: Comport
+    photo: /uploads/partners-comport.png
+    url: "https://comport.com/"
+    categories:
+      - reseller
+  - body: >
+      Converge Technology Solutions Corp. is a North American Hybrid IT Solution Provider focused on delivering industry leading solutions and services. Converge’s regional sales and services organizations deliver advanced analytics, cloud, cybersecurity, and managed services offerings to clients across various industries.
+    name: Converge Technology Solutions
+    photo: /uploads/partners-converge.svg
+    url: "https://convergetp.com"
+    categories:
+      - reseller
+  - body: >-
+      Flywheel Data provides elite IT Solution Design, Services, and Product Resale for the Cloud, Data Center, and Edge. Our goal is to arm our clients with the right tools, products, and technologies to accelerate mission success.
+    name: Flywheel
+    photo: /uploads/partners_flywheel.png
+    url: "https://flywheeldata.com/"
+    categories:
+      - reseller
+  - body: >
+      Great Northern specializes in data center and cloud solutions, which provide customers with the tools they need to realize value, as they deploy leading-edge technologies. Because expanding data is becoming more and more critical to today’s IT shops, Great Northern is focused on solutions that can safely and efficiently store, manipulate, and present data across any platform at high speed to help customers understand their business and improve customer satisfaction.
+    name: Great Northern Consulting
+    photo: /uploads/gnorth-icon-t.png
+    url: "https://gnorth.com/"
+    categories:
+      - reseller
+  - body: >-
+      “At Horizon Systems, we pride ourselves on delivering solutions that work in your unique environment.  We work closely with our customers to understand their needs,  and provide the best and most cost-effective technology solutions available.  Our definition of success is measured by the satisfaction we deliver.”
+    name: Horizon System
+    photo: /uploads/partners_Horizon_Systems.png
+    url: "https://www.horizonsystems.com/"
+    categories:
+      - reseller
+  - body: >-
+      We provide advisory services to build a cohesive and integrated strategy around contact center, unified communications (Zoom, Teams, etc), video surveillance, data integration, and advanced analytics.  We are focused on modernizing our clients' existing and legacy IT environments. The great thing is that we provide advisory services at no cost to the customer and can typically find 25-50% savings off of their current spend.
+    name: Intellication
+    photo: /uploads/intelication-icon.png
+    url: "https://www.intelication.com"
+    categories:
+      - reseller
+  - body: >-
+      Lightwell helps companies optimize how they access, manage, share, and leverage their data, enabling them to increase speed and agility, overcome complexities, improve customer satisfaction, and gain competitive advantages.
+    name: Lightwell
+    photo: /uploads/partners-lightwell.svg
+    url: "https://www.lightwellinc.com"
+    categories:
+      - reseller
+  - body: >
+      At MNJ, we thoroughly comprehend the challenges you face. We strive to not only understand your current technology capabilities but also your outstanding needs, so you can leverage IT as a business driver for your organization. By working hand-in-hand with our clients, we are able to develop tailored solutions that provide value to your business and drive efficiencies toward your bottom line.
+    name: MNJ
+    photo: /uploads/mnj-icon.png
+    url: "https://www.mnjtech.com"
+    categories:
+      - reseller
+  - body: >
+      IT Solution Provider for Enterprise Server, Storage, Networks, Cloud, Security, Maintenance, Warranty and Installation.
+    name: mvation
+    photo: /uploads/partners-mvation.png
+    url: "https://www.mvation.com/"
+    categories:
+      - reseller
+  - body: >
+      Our Data and Analytics team provides industry-leading consulting services that utilize proven technologies to modernize data and analytics ecosystems designed to meet current and future demands of business.
+    name:  Sirius
+    photo: /uploads/partners-sirius.svg
+    url: "https://www.siriuscom.com/solutions/data-analytics/"
+    categories:
+      - reseller
+  - body: >
+      Since 2001, Six Degrees Consulting has worked to build upon the experience of our customers, vendors and technical consultants. SDC leverages exactly the right resources from this vast network to develop clients’ information technology (IT) solutions. We work with the best industry IT professionals and partners to provide our clients with high-quality solutions.
+    name:  Six Degrees Consulting
+    photo: /uploads/partners-six-degrees.svg
+    url: "https://sixdegreesconsulting.com/"
+    categories:
+      - reseller
+  - body: >
+      StorageHawk, specializes in technology sales and consulting to all verticals of the Federal Government, including the Department of Defense, the intelligence community, and civilian agencies. We provide the authoritative technical expertise agencies need to swiftly identify, then solve complex data center challenges. We go directly from requirements to results—because we’re fierce about data.
+    name: Storage Hawk
+    photo: /uploads/partners-storage-hawk.png
+    url: "https://www.storagehawk.com/"
+    categories:
+      - reseller
+  - body: >
+      ThunderCat Technology is a Service-Disabled Veteran-Owned Small Business (SDVOSB) that delivers technology products and services to government organizations, educational institutions, and commercial enterprises. We are a VAR that brings an innovative approach to solving customer problems in and around the datacenter by providing strategies for Infrastructure, Cyber Security, and Cloud Transformation. 
+    name: ThunderCat
+    photo: /uploads/partners-thundercat.png
+    url: "http://www.thundercattech.com/"
+    categories:
+      - reseller
+  - body: >
+      ViON is a Cloud Services Provider with over 20 years of delivering data center infrastructure as-a-Service. Partnering with leading IT companies, ViON delivers everything from storage to AI in an as-a-service consumption model, helping our customers quickly scale IT resources, deploy new technology and grow their AI and advanced analytics practices.
+    name: ViON
+    photo: /uploads/partners-vion.svg
+    url: "https://www.vion.com/"
+    categories:
+      - reseller 
+  - body: >
+      Zione Solutions offers its customers predictable outcomes, minimized risk, and solutions that will let them focus on having their core business grow and prosper.  Our Professional Services are designed to be flexible, and allow our customers to utilize individual members of our team to augment their staff or to request a managed end-to-end solution.
+    name: Zione Solutions
+    photo: /uploads/partners-zione.png
+    url: "https://www.zionesolutions.com/"
+    categories:
+      - reseller

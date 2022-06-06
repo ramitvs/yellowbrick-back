@@ -1,0 +1,134 @@
+/* purgecss start ignore */
+
+.main-nav-link {
+  @apply relative flex font-normal text-gray-500 px-0;
+  @screen cc {
+    @apply px-2;
+  }
+  transform: translateX(0px);
+  transition: all ease .2s;
+  &:hover {
+    @apply text-gray-700;
+    transform: translateX(2px);
+    &:before {
+      transform: translateX(4px) translateY(-50%);
+      opacity: 1;
+    }
+  }
+  &:before {
+    top: 50%;
+    left: 0px;
+    transform: translateY(-50%) translateX(0px);
+    content: '';
+    height: 10px;
+    width: 7px;
+    @apply absolute;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 7 10'%3E%3Cpath fill='%230d171c' d='M1.5 0L0 1.4 4 5 0 8.6 1.5 10 7 5z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    opacity: 0;
+    transition: all ease .2s;
+  }
+}
+
+.nav-arrow {
+  @apply absolute;
+  right: 1.5rem;
+  top: 54%;
+  transform: translateY(-50%) rotate(180deg);
+  width: 12px;
+  height: 12px;
+  transform-origin: center center;
+  &:before {
+    content: '';
+    width: 6px;
+    height: 2px;
+    transform: rotate(45deg);
+    top: 5px;
+    left: 5px;
+    @apply absolute bg-yellow1;
+  }
+  &:after {
+    content: '';
+    width: 6px;
+    height: 2px;
+    transform: rotate(135deg);
+    top: 5px;
+    left: 1px;
+    @apply absolute bg-yellow1;
+  }
+}
+
+@media (min-width: 880px) {
+  .nav-arrow {
+    right: -7px;
+  }
+}
+
+#hamburger {
+  @apply bg-white relative my-3;
+  width: 28px;
+  height: 2px;
+  &:after {
+    @apply absolute left-0 bg-white;
+    content: '';
+    bottom: -10px;
+    width: 28px;
+    height: 2px;
+  }
+  &:before {
+    @apply absolute left-0 w-8 h-1 bg-white;
+    content: '';
+    top: -10px;
+    width: 28px;
+    height: 2px;
+  }
+}
+
+#close {
+  @apply flex relative w-8 h-8;
+  &:before, &:after {
+    @apply bg-white absolute;
+    content: '';
+    top: 18px;
+    width: 28px;
+    height: 2px;
+  }
+  &:before {
+    transform: rotate(45deg);
+  }
+  &:after {
+    transform: rotate(-45deg);
+  }
+}
+
+footer {
+  & ul {
+    & li {
+      & a {
+        color: white;
+        transition: color ease .15s;
+        &:hover {
+          color: #fecf41;
+        }
+      }
+    }
+  }
+  & .sm-icons {
+    fill: rgba(255, 255, 255, .2);
+    transition: all ease .2s;
+  }
+  & .sm-icons {
+    &.twitter {
+      &:hover {
+        fill: #1da1f2;
+      }
+    }
+    &.linkedin {
+      &:hover {
+        fill: #0e76a8;
+      }
+    }
+  }
+}
+
+/* purgecss end ignore */

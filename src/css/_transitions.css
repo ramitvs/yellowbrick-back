@@ -1,0 +1,66 @@
+/* purgecss start ignore */
+
+
+/* SLIDE REVEAL */
+
+.slider-enter-active {
+  transform-origin: top;
+  animation: slider-in .15s;
+}
+@keyframes slider-in {
+  0% {
+    transform: scaleY(.25);
+    opacity: 0;
+  }
+  100% {
+    transform: scaleY(1);
+    opacity: 1;
+  }
+}
+
+.slide-enter-active {
+	transition: .5s ease-in;
+}
+
+/* PUSH REVEAL */
+
+.pusher-enter-active {
+  transform-origin: right;
+  animation: pusher-in .2s;
+}
+@keyframes pusher-in {
+  0% {
+    transform: scaleX(.25);
+    opacity: 0;
+  }
+  100% {
+    transform: scaleX(1);
+    opacity: 1;
+  }
+}
+
+/* dialog modal open */
+.dialog-enter,
+.dialog-leave-to {
+  @apply opacity-0;
+  & .trans-transform {
+    transform: scale(0.7);
+  }
+}
+
+
+/* Bounce right animation for arrows */
+
+@keyframes bounce-right {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(10px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* purgecss end ignore */
