@@ -11,3 +11,6 @@
     Referrer-Policy = "no-referrer"
     X-Content-Type-Options = "nosniff"  
     Permissions-Policy = "accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=(), interest-cohort=()"
+    Content-Security-Policy: default-src 'self'; img-src *; media-src *; script-src *;
+    
+    Content-Security-Policy: default-src 'self'; img-src *; media-src *; style-src *; script-src sucuri.net;
